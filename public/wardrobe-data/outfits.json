@@ -1,0 +1,1469 @@
+{
+  "version": 1,
+  "assetVersion": "wardrobe-sync-20260808",
+  "outfits": [
+    {
+      "id": "1977-charcoal-frame",
+      "name": "1977·炭灰西装框架",
+      "occasion": [
+        "gallery",
+        "dinner",
+        "creative-office"
+      ],
+      "garmentIds": [
+        "import-ff41c246-ce2c-41be-8179-4cc985a197bb",
+        "import-71525036-ee92-4e2d-987c-7d2d39e23abb",
+        "import-190fdd72-c253-4ee7-bd66-89fe42c0c591",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "炭灰西装敞开后给 1977 图案 T 建立两条纵向框架，奶油直筒裤呼应胸前数字，黑德比再把深色落到底部；比单穿 T 恤配卡其西裤更有层次，也不再把视觉重量全堆在高腰。",
+      "styling": {
+        "silhouette": "炭灰西装敞开覆盖紧凑图案 T，下面接奶油直筒长裤",
+        "waist": "1977 T 干净塞入真实自然腰位，不抬高腰线；西装两侧保持垂直",
+        "hem": "奶油长裤以零至一个折点落在黑德比鞋面",
+        "layering": "炭灰两粒扣西装完全敞开，完整露出 1977 图案与奶油色裤线",
+        "colorLogic": "炭灰和黑色构成深色框架，奶油长裤与胸前数字相互呼应，不再引入第四种颜色",
+        "shoeLogic": "黑德比重复黑 T 与西装阴影，让奶油裤获得清晰而正式的收尾",
+        "tension": "日常图案 T 与克制西装、抛光德比之间的正式和休闲对照",
+        "pose": "自然缓步，西装前襟分开，完整露出四个 1977 数字"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/1977-charcoal-frame-v2.png",
+      "status": "accepted"
+    },
+    {
+      "id": "tank-blazer-reconstruction",
+      "name": "背心·西装·重构牛仔",
+      "occasion": [
+        "evening",
+        "design-event",
+        "date"
+      ],
+      "garmentIds": [
+        "import-424d734b-e5ac-4693-8529-8352f5aaaf60",
+        "import-95687e2a-e3fd-4225-bf83-17cf71b861a0",
+        "import-190fdd72-c253-4ee7-bd66-89fe42c0c591",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "贴身背心和炭灰西装控制拼接宽腿牛仔的重量，是最接近 Prada 人体意识与重构感的一套。",
+      "styling": {
+        "silhouette": "fitted tank under a shaped open blazer over full wide jeans",
+        "waist": "tank fully tucked; high waistband visible inside the open blazer",
+        "hem": "full-length wide denim with enough derby toe visible to anchor it",
+        "layering": "real two-button blazer left unfastened",
+        "colorLogic": "charcoal and washed gray form a separated tonal base, the white tank is the light accent, and black derby anchors the wide hem",
+        "shoeLogic": "elevated black derby prevents the wide denim from reading as casual puddling",
+        "tension": "underwear-like tank and formal blazer against reconstructed denim",
+        "pose": "confident mid-stride, blazer edges moving slightly, arms clear of the waist"
+      },
+      "styleScore": 10,
+      "setting": "a dark Fondazione-like concrete hall with warm overhead runway light",
+      "image": "wardrobe-data/outfits/tank-blazer-reconstruction.png",
+      "status": "accepted"
+    },
+    {
+      "id": "houndstooth-summer-derby",
+      "name": "千鸟格·奶油长线",
+      "occasion": [
+        "casual-office",
+        "museum",
+        "weekend"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-06ee7b66-f1f2-4abf-b498-2a6ace3759e2",
+        "import-71525036-ee92-4e2d-987c-7d2d39e23abb",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "白 T 和奶油色重构长裤连成轻色中轴，千鸟格夹克负责框住上身，黑白鞋把外套的深色重新落到脚下；去掉短裤、黑袜和德比后，比例完整也更适合日常。",
+      "styling": {
+        "silhouette": "上臀长度千鸟格拉链夹克敞穿，白 T 与奶油色直筒重构牛仔形成连续长线",
+        "waist": "白 T 自然放下，藏在夹克与裤腰之间，不制造刻意塞衣痕迹",
+        "hem": "奶油长裤完整落到鞋面，仅保留一个小折点",
+        "layering": "千鸟格夹克自然敞开，真实长度不裁短",
+        "colorLogic": "白与奶油是主体，棕黑千鸟格提供纹理边框，鞋面的黑色与外套远距离呼应",
+        "shoeLogic": "黑白低帮鞋承接外套深色，同时比德比鞋轻，不切断裤线",
+        "tension": "传统千鸟格与重构牛仔、运动鞋之间的克制材质冲突",
+        "pose": "自然站立略转身，手臂离开腰部以看清夹克下摆和完整裤线"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/houndstooth-summer-derby.png",
+      "status": "accepted"
+    },
+    {
+      "id": "brown-knit-black-tech",
+      "name": "棕针织·黑机能",
+      "occasion": [
+        "travel",
+        "casual-workday",
+        "weekend"
+      ],
+      "garmentIds": [
+        "import-a1e71107-6d07-4e1a-849a-ca2c40477e3b",
+        "import-f73a15b2-d15e-4dc2-a0fe-2da00505de82",
+        "import-bb698ffa-67e1-4151-8a97-2c6fc0fcbff1"
+      ],
+      "reason": "深棕针织的精致感与黑色机能裤、灰跑鞋碰撞，避免落入普通商务休闲。",
+      "styling": {
+        "silhouette": "regular knit polo fully tucked into clean articulated trousers",
+        "waist": "neat natural waistband visible",
+        "hem": "technical trouser meets the runner with no accidental ankle gap",
+        "layering": "none",
+        "colorLogic": "charcoal-black controls the lower half, chocolate brown supplies the warm support, and the gray runner is the single functional light interruption",
+        "shoeLogic": "gray mesh runner continues the functional lower line while opposing the polished knit",
+        "tension": "refined knit against technical trouser and running shoe",
+        "pose": "easy mid-step with one hand in the trouser pocket and shoulders relaxed"
+      },
+      "styleScore": 9,
+      "setting": "a brushed-metal Los Angeles transit interior with soft morning light",
+      "image": "wardrobe-data/outfits/brown-knit-black-tech.png",
+      "status": "accepted"
+    },
+    {
+      "id": "red-signal-navy-frame",
+      "name": "红色信号·海军蓝框架",
+      "occasion": [
+        "night-out",
+        "concert",
+        "weekend"
+      ],
+      "garmentIds": [
+        "import-2000010b-bd13-400e-b52c-d2d7b3e49574",
+        "import-13852398-6474-411e-a846-4d2c1b152089",
+        "import-f13e88bc-162e-4098-8fb0-c09008b0753f",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "红 T 只作为短棕外套和深蓝裤之间的一段信号色，主次清楚而不杂乱。",
+      "styling": {
+        "silhouette": "short open outer over a tucked tee and uninterrupted straight trouser",
+        "waist": "tee fully tucked; short outer terminates near the waistband",
+        "hem": "one restrained break over the low-profile trainer",
+        "layering": "real button-front outer worn open",
+        "colorLogic": "deep navy and cool charcoal form the controlled dark base, saturated red is the only accent, and black-white footwear repeats the frame without competing",
+        "shoeLogic": "black-white trainer echoes the dark frame without competing with the red",
+        "tension": "saturated inner graphic inside sober workwear-derived pieces",
+        "pose": "mid-stride with slight jacket swing and a quiet, direct expression"
+      },
+      "styleScore": 9,
+      "setting": "a restrained Los Angeles concrete parking structure at blue hour with neutral soft key light",
+      "image": "wardrobe-data/outfits/red-signal-navy-frame-v2.png",
+      "status": "accepted"
+    },
+    {
+      "id": "striped-frame-cream-column",
+      "name": "条纹框架·奶油长线",
+      "occasion": [
+        "art-district",
+        "gallery",
+        "smart-casual"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-71525036-ee92-4e2d-987c-7d2d39e23abb",
+        "import-38d3350b-af33-4317-8f29-b675bafb70e8",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "条纹夹克恢复真实外穿结构，用黑色竖线与德比鞋框住奶油长线，避免原方案强行塞衣和厚重鞋造成的箱形比例。",
+      "styling": {
+        "silhouette": "open structured striped jacket framing a tucked tee and straight cream trouser",
+        "waist": "ivory tee fully tucked; natural-to-high waist remains visible inside the open jacket",
+        "hem": "zero-to-minimal trouser break over the black derby",
+        "layering": "real button-front striped jacket worn open with its exact structured hem left untucked",
+        "colorLogic": "cream and ivory form the controlled light base while black stripes and black derbies repeat one precise dark frame with no extra accent",
+        "shoeLogic": "black derby repeats the jacket stripes and gives the pale trouser a strict endpoint",
+        "tension": "graphic casual shirt jacket against a pale column and polished formal footwear",
+        "pose": "measured mid-step with jacket edges open and the waist unobstructed"
+      },
+      "styleScore": 10,
+      "setting": "a dark charcoal Los Angeles arts-building passage in clean neutral daylight",
+      "image": "wardrobe-data/outfits/striped-frame-cream-column.png",
+      "status": "accepted"
+    },
+    {
+      "id": "drawstring-blazer-collision",
+      "name": "抽绳裤·西装碰撞",
+      "occasion": [
+        "office",
+        "dinner",
+        "transitional-weather"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-91b2d0db-e431-4c37-8b21-8ec6ba0f3128",
+        "import-190fdd72-c253-4ee7-bd66-89fe42c0c591",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "炭灰西装和黑德比把抽绳工装裤收进正式框架，白 T 只保留一条干净中轴。",
+      "styling": {
+        "silhouette": "open shaped blazer framing a tucked tee and relaxed straight cargo trouser",
+        "waist": "tee tucked; drawstring waistband visible inside the open blazer",
+        "hem": "one soft controlled break over the derby",
+        "layering": "real two-button blazer worn open",
+        "colorLogic": "warm gray-taupe trouser is the dominant field, charcoal blazer is the dark support, ivory tee is the light axis, and black derby repeats the blazer",
+        "shoeLogic": "black derby gives the casual drawstring trouser a hard polished endpoint",
+        "tension": "formal lapel and shoe against elasticated cargo construction",
+        "pose": "walking with one hand lightly in the cargo pocket and blazer edges separated"
+      },
+      "styleScore": 9,
+      "setting": "a quiet charcoal office arcade with one stainless-steel wall and directional daylight",
+      "image": "wardrobe-data/outfits/drawstring-blazer-collision-v2.png",
+      "status": "accepted"
+    },
+    {
+      "id": "collegiate-strictness",
+      "name": "学院卫衣的严格处理",
+      "occasion": [
+        "coffee",
+        "cool-LA-day",
+        "casual-dinner"
+      ],
+      "garmentIds": [
+        "import-c349f5da-febf-49dd-86cd-c7d2c0ef6cfe",
+        "import-86ff7231-cae0-4981-9f84-34b760516d16",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "宽松学院卫衣是唯一软体积，直筒卡其裤和黑德比把它压回严格轮廓。",
+      "styling": {
+        "silhouette": "one soft oversized sweatshirt over a cleaner straight leg",
+        "waist": "shallow center-front tuck only; side and back volume remain natural",
+        "hem": "zero-to-minimal trouser break over the derby",
+        "layering": "none",
+        "colorLogic": "olive is dominant, warm khaki is the supporting field, cream lettering is the only light accent, and black derby supplies the deliberate dark anchor",
+        "shoeLogic": "formal black derby gives the oversized upper a precise counterweight",
+        "tension": "collegiate fleece and lettering against strict polished footwear",
+        "pose": "casual off-axis stance with one foot advancing and sleeves unobstructed"
+      },
+      "styleScore": 9,
+      "setting": "a pale cool-gray modernist Los Angeles courtyard in crisp neutral winter daylight",
+      "image": "wardrobe-data/outfits/collegiate-strictness-v2.png",
+      "status": "accepted"
+    },
+    {
+      "id": "black-utility-cream-frame",
+      "name": "黑工装·奶油纵框",
+      "occasion": [
+        "day-to-dinner",
+        "casual-office",
+        "museum"
+      ],
+      "garmentIds": [
+        "import-424d734b-e5ac-4693-8529-8352f5aaaf60",
+        "import-71525036-ee92-4e2d-987c-7d2d39e23abb",
+        "import-3d53789b-5ee5-4c45-ba66-0e120dca03f6",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "宽松黑色 Prada 工装衬衫改为敞穿，合身白背心与奶油直筒裤形成轻色中轴，黑德比回扣外层；既保留衬衫真实宽松版型，又避免黑上衣和深色宽裤把身体切成一个方块。",
+      "styling": {
+        "silhouette": "合身白背心和奶油直筒裤组成窄中轴，宽松黑工装衬衫在外侧形成开放框架",
+        "waist": "白背心干净塞入自然腰位；黑工装衬衫绝不塞入、绝不缩短",
+        "hem": "奶油长裤以一个小折点完整落在黑德比鞋面",
+        "layering": "黑工装衬衫利用真实纽扣门襟完全敞穿，三角标与自然衣长保持可见",
+        "colorLogic": "黑色负责外框与鞋，白和奶油负责连续中轴，只有清晰的明暗两组",
+        "shoeLogic": "黑德比回扣黑色外层，并用抛光表面收紧奶油宽裤的下摆",
+        "tension": "宽松工装短袖、贴身背心、干净直筒裤与正式德比之间的类别对照",
+        "pose": "自然缓步，手臂离开门襟，敞开纵线和全部裤长清楚可见"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/black-utility-cream-frame-v2.png",
+      "status": "accepted"
+    },
+    {
+      "id": "white-vest-black-tech",
+      "name": "白羽绒马甲·黑色内核",
+      "occasion": [
+        "cool-weather",
+        "city",
+        "design-event"
+      ],
+      "garmentIds": [
+        "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+        "import-f73a15b2-d15e-4dc2-a0fe-2da00505de82",
+        "import-b2029fb5-484b-44be-8caa-12bebdf65111",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "黑 T 与黑色机能裤连成稳定内核，白色羽绒马甲只承担外层体积，奶油白鞋呼应马甲但降低对比；去掉背心和德比后，材质与使用场景一致。",
+      "styling": {
+        "silhouette": "白色羽绒马甲敞穿在黑 T 与直筒黑机能裤构成的连续内层之外",
+        "waist": "黑 T 平整自然落在裤腰附近，不强调腰带也不做紧绷塞衣",
+        "hem": "黑机能裤完整触及奶油白鞋，不露脚踝",
+        "layering": "羽绒马甲自然敞开或仅在中段轻扣，黑色内衬与黑 T 连续",
+        "colorLogic": "黑色是主体，白色马甲提供单一大面积对比，奶油鞋柔和呼应外层",
+        "shoeLogic": "奶油白低帮鞋与机能裤语境一致，避免德比鞋的突兀正式感",
+        "tension": "轻量羽绒体积与简洁黑色城市机能长线",
+        "pose": "放松站立或缓慢行走，马甲边缘自然打开，完整鞋面可见"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/white-vest-black-tech.png",
+      "status": "accepted"
+    },
+    {
+      "id": "oatmeal-knit-black-tech",
+      "name": "米灰针织·黑色机能线",
+      "occasion": [
+        "museum",
+        "weekend-lunch",
+        "creative-meeting"
+      ],
+      "garmentIds": [
+        "import-26bd1649-ee86-463c-931e-5a0881af10d2",
+        "import-f73a15b2-d15e-4dc2-a0fe-2da00505de82",
+        "import-bb698ffa-67e1-4151-8a97-2c6fc0fcbff1"
+      ],
+      "reason": "米灰针织 Polo 保留罗纹下摆自然收束，黑色机能裤把下半身收成清楚深线，灰色跑鞋连接上衣与裤子；去掉同宽、同灰的拼接牛仔后，轻重和明暗都有主次。",
+      "styling": {
+        "silhouette": "紧凑针织 Polo 配直筒至轻微收窄的黑色机能长裤",
+        "waist": "针织 Polo 不塞入，真实罗纹下摆停在自然腰位附近",
+        "hem": "黑机能裤干净触及灰色跑鞋，不堆积也不露出意外脚踝",
+        "layering": "none",
+        "colorLogic": "黑色是下半身主体，暖米灰是上身主角，灰跑鞋以深浅灰同时连接两者",
+        "shoeLogic": "灰色 991 的深色饰片延续黑裤，浅灰网面又回扣米灰针织，不形成孤立鞋色",
+        "tension": "细针织 Polo 与有立体剪线的技术裤、跑鞋之间的精致和功能对照",
+        "pose": "轻微错步站立，一手靠近口袋但完整露出罗纹下摆与裤线"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/oatmeal-knit-black-tech-v2.png",
+      "status": "accepted"
+    },
+    {
+      "id": "linen-utility-navy-ground",
+      "name": "亚麻工装·黑蓝内核",
+      "occasion": [
+        "warm-weather-office",
+        "lunch",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+        "import-9ae44830-a48a-41eb-bb8e-a83d42601143",
+        "import-13852398-6474-411e-a846-4d2c1b152089",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "米色亚麻工装上衣改为轻外套敞穿，黑 T 与深藏蓝西装结构牛仔构成连续内核，奶油白鞋回扣亚麻外层；去掉全扣制服感与孤立灰跑鞋后，层次和颜色都有明确呼应。",
+      "styling": {
+        "silhouette": "短袖亚麻工装上衣完全敞穿，黑 T 与直筒深藏蓝西装结构牛仔形成深色中轴",
+        "waist": "黑 T 干净塞入以连接裤线；亚麻外层绝不塞入，保留真实抽褶下摆与上臀长度",
+        "hem": "深藏蓝牛仔完整落到奶油白鞋面，仅保留一个小折点",
+        "layering": "亚麻工装上衣作为轻夹克完全敞开，两个胸袋和深色纽扣保持可见",
+        "colorLogic": "黑与深藏蓝负责主体长线，米色亚麻外层与奶油白鞋上下呼应，不再出现孤立灰色",
+        "shoeLogic": "奶油白低帮鞋呼应亚麻上衣，比灰色厚底跑鞋更轻、更完整",
+        "tension": "粗粝亚麻工装外层与干净西装结构牛仔之间的材质差",
+        "pose": "自然站立略转身，手臂离开身体以看清敞开的外层与连续裤线"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/linen-utility-navy-ground.png",
+      "status": "accepted"
+    },
+    {
+      "id": "white-shirt-reconstructed-denim",
+      "name": "白衬衫·重构牛仔",
+      "occasion": [
+        "creative-office",
+        "gallery",
+        "dinner"
+      ],
+      "garmentIds": [
+        "import-ffa6ad97-5602-4654-b83c-2d249142b525",
+        "import-95687e2a-e3fd-4225-bf83-17cf71b861a0",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "白衬衫负责紧凑明亮的上身，灰色拼接牛仔成为唯一视觉重点，黑德比回扣膝部深灰拼接；正式衬衫和重构宽牛仔的冲突比原来的白衬衫加黑裤更有记忆点。",
+      "styling": {
+        "silhouette": "紧凑白衬衫完整塞入真实宽松的拼接牛仔长裤",
+        "waist": "衬衫完整塞入自然腰位，保留真实 170cm 比例，不人为提高裤腰",
+        "hem": "拼接牛仔保持真实完整裤长，以一个受控折点落在黑德比鞋面",
+        "layering": "无外套，保留衬衫本身的结构",
+        "colorLogic": "中灰重构牛仔是主体，白衬衫提供清楚亮部，黑德比重复膝部深灰拼接",
+        "shoeLogic": "黑德比用低而坚实的鞋头承接宽裤，并与深灰拼接形成纵向关联",
+        "tension": "正式白衬衫和抛光德比对照宽松、带水平拼接的重构牛仔",
+        "pose": "自然缓步并略转上身，手臂不遮挡裤腰和两道深灰拼接"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/white-shirt-reconstructed-denim-v2.png",
+      "status": "accepted"
+    },
+    {
+      "id": "blue-shirt-black-cardigan-tailored-denim",
+      "name": "浅蓝衬衫·黑色针织层",
+      "occasion": [
+        "creative-office",
+        "lunch",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-026f493d-3f55-440f-b31b-512f451b1f3d",
+        "import-a761e9f6-2187-4ae6-8116-e8054202d0e2",
+        "import-13852398-6474-411e-a846-4d2c1b152089",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "浅蓝衬衫把黑色开衫与深藏蓝牛仔裤分开；裤子保留牛仔纹理，却用西裤结构承接针织层，米白鞋只负责轻轻提亮。",
+      "styling": {
+        "silhouette": "宽松开衫覆盖利落的西装版型直筒牛仔裤",
+        "waist": "衬衫塞入，开衫敞开露出完整中线",
+        "hem": "牛仔裤有轻微裤线并整洁落在德训鞋上",
+        "layering": "黑色开衫完全敞开，五粒扣与贴袋保留可见",
+        "colorLogic": "黑、浅蓝、深藏蓝构成冷色层次，米白鞋是低饱和收尾",
+        "shoeLogic": "奶油白鞋底减轻深色下装重量，不制造强烈白块",
+        "tension": "柔软针织与西装结构牛仔布的质感对比",
+        "pose": "一手插袋，视线轻微离开镜头"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/blue-shirt-black-cardigan-tailored-denim.png",
+      "status": "accepted"
+    },
+    {
+      "id": "blue-tonal-minimal",
+      "name": "浅蓝衬衫·藏蓝同色",
+      "occasion": [
+        "creative-office",
+        "lunch",
+        "smart-casual"
+      ],
+      "garmentIds": [
+        "import-026f493d-3f55-440f-b31b-512f451b1f3d",
+        "import-13852398-6474-411e-a846-4d2c1b152089",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "浅蓝衬衫和深藏蓝西装结构牛仔裤组成由浅到深的蓝色同色层次，奶油白德训鞋在脚下柔和提亮；比加黑色开衫的版本更轻、更适合洛杉矶的通勤与午餐场景。",
+      "styling": {
+        "silhouette": "放松但平整的浅蓝衬衫配直筒西装结构牛仔裤，保持清楚纵线",
+        "waist": "衬衫完整塞入，腰线自然，不刻意拉高比例",
+        "hem": "牛仔裤保留真实裤长和一处轻微折点，整洁落在德训鞋上",
+        "layering": "不增加外套，让浅蓝衬衫成为完整主角；领口解开一粒扣",
+        "colorLogic": "浅蓝过渡到深藏蓝，奶油白只在鞋部提亮，控制为冷色同色系",
+        "shoeLogic": "奶油白德训鞋降低衬衫与深色牛仔之间的正式感，同时不形成刺眼纯白色块",
+        "tension": "正装衬衫与带西裤结构的牛仔面料构成克制的正式与休闲对照",
+        "pose": "缓慢向前走，一手放入口袋，衬衫与裤线完整可见"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/blue-tonal-minimal.png",
+      "status": "accepted"
+    },
+    {
+      "id": "traveller-layered-tailoring",
+      "name": "Traveller·城市三层",
+      "occasion": [
+        "cool-evening",
+        "travel",
+        "dinner"
+      ],
+      "garmentIds": [
+        "import-ffa6ad97-5602-4654-b83c-2d249142b525",
+        "import-190fdd72-c253-4ee7-bd66-89fe42c0c591",
+        "import-7960424e-a756-41dc-b021-c5277490b365",
+        "import-8c9aba6f-69cc-45ff-8237-6781b6645acf",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "Traveller 的真实长下摆覆盖白衬衫与炭灰西装，形成从精裁到功能外层的纵向层次；卡其裤和米白鞋把深色上身放回洛杉矶日常。",
+      "styling": {
+        "silhouette": "长至低臀的宽松 Traveller 覆盖常规西装外套",
+        "waist": "白衬衫塞入卡其裤，外层全部敞开",
+        "hem": "卡其裤保持一处清晰折点，鞋面完整可见",
+        "layering": "白衬衫、炭灰西装、Traveller 三层真实叠穿，不压缩外套长度",
+        "colorLogic": "藏蓝和炭灰构成深色上层，卡其与米白降低整体严肃度",
+        "shoeLogic": "米白德训鞋与白衬衫远距离呼应，使长外套不显沉重",
+        "tension": "传统西装被长款多袋功能外套重新包裹",
+        "pose": "自然行走，外套敞开并露出三层关系"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/traveller-layered-tailoring.png",
+      "status": "accepted"
+    },
+    {
+      "id": "cream-utility-monochrome",
+      "name": "奶油工装·灰阶",
+      "occasion": [
+        "weekend",
+        "lunch",
+        "gallery"
+      ],
+      "garmentIds": [
+        "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+        "import-e445cdc8-a22b-4ecb-8660-6e599b46f093",
+        "import-1b845ec0-79cf-4074-aae8-991aaf2ec8f1",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "奶油色多袋夹克承担体积，黑 T 从领口建立锚点，石灰长裤与黑白鞋完成低对比灰阶，不让浅色外套显膨胀。",
+      "styling": {
+        "silhouette": "短而有量感的多袋夹克配垂直直筒裤",
+        "waist": "黑 T 自然放下，长度不超过夹克下摆",
+        "hem": "浅灰裤脚干净覆盖鞋舌上缘",
+        "layering": "夹克敞开，黑色内层形成窄中线",
+        "colorLogic": "奶油与石灰为主，黑色只在内搭和鞋上重复",
+        "shoeLogic": "黑白鞋把内搭的黑与浅色裤同时接住",
+        "tension": "立体工装袋与简洁灰阶配色之间的平衡",
+        "pose": "肩部放松，双手自然错开"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/cream-utility-monochrome.png",
+      "status": "accepted"
+    },
+    {
+      "id": "technical-brown-outdoor",
+      "name": "棕色针织·技术户外",
+      "occasion": [
+        "travel",
+        "cool-morning",
+        "weekend"
+      ],
+      "garmentIds": [
+        "import-a1e71107-6d07-4e1a-849a-ca2c40477e3b",
+        "import-e690180e-8b4b-41dd-b9a4-f625a482a8c0",
+        "import-f73a15b2-d15e-4dc2-a0fe-2da00505de82",
+        "import-46872023-1f94-4d7a-910b-3342f3546c85"
+      ],
+      "reason": "深棕针织 Polo 给冷灰壳衫增加温度，黑色机能裤把体积向下收束，灰黑徒步鞋延续外套的技术语汇。",
+      "styling": {
+        "silhouette": "轻量壳衫覆盖贴近身体但不紧的针织 Polo",
+        "waist": "Polo 自然放下，外层敞开",
+        "hem": "机能裤脚在徒步鞋上方整洁收住",
+        "layering": "灰色连帽壳衫保持开放，露出深棕色中段",
+        "colorLogic": "棕色是唯一暖点，灰与黑组成稳定技术底色",
+        "shoeLogic": "灰黑徒步鞋复述壳衫和裤子的色值，不额外加色",
+        "tension": "精细针织 Polo 与户外壳衫、徒步鞋的类别碰撞",
+        "pose": "轻微跨步，手臂自然摆动"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/technical-brown-outdoor.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fleece-khaki-weekend",
+      "name": "抓绒卡其·周末",
+      "occasion": [
+        "weekend",
+        "errands",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-00400500-3992-425e-a91c-21f4abb203bf",
+        "import-106786c9-1457-4934-9e11-e785dc800b13",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "灰棕抓绒、浅卡其裤和白 T 都属于低饱和暖中性色，黑白鞋在脚下补出必要对比，舒适但不会像家居服。",
+      "styling": {
+        "silhouette": "宽松抓绒配放松直筒卡其裤",
+        "waist": "白 T 自然放下，控制在抓绒下摆以内",
+        "hem": "卡其裤允许一处柔和堆叠，不露突兀脚踝",
+        "layering": "抓绒敞开，让白 T 成为干净中线",
+        "colorLogic": "灰棕与浅卡其连续过渡，白色提亮，黑色只作轮廓",
+        "shoeLogic": "黑白鞋把白 T 和深色抓绒边缘同时接回",
+        "tension": "户外抓绒的粗糙感与干净直筒裤、设计运动鞋并置",
+        "pose": "放松站姿，重心落在一侧"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/fleece-khaki-weekend.png",
+      "status": "accepted"
+    },
+    {
+      "id": "graphic-stone-casual",
+      "name": "图案卫衣·石灰",
+      "occasion": [
+        "weekend",
+        "coffee",
+        "casual-evening"
+      ],
+      "garmentIds": [
+        "import-b3830aa9-ab3a-42ad-aeaa-54d46277bb51",
+        "import-1b845ec0-79cf-4074-aae8-991aaf2ec8f1",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "黑色图案卫衣是视觉中心，石灰直筒裤把图案的重量向下释放，奶油白鞋维持轻松而不抢图案。",
+      "styling": {
+        "silhouette": "宽松卫衣配干净直筒裤，避免上下同时过度膨胀",
+        "waist": "卫衣自然放下，不强行塞衣",
+        "hem": "裤脚轻触德训鞋并保持笔直",
+        "layering": "无额外外套，让图案完整可见",
+        "colorLogic": "黑色占据上半身，石灰和奶油白逐步提亮下半身",
+        "shoeLogic": "低对比奶油鞋不会与上衣图案争夺注意力",
+        "tension": "手工感图案与极简石灰裤线的对照",
+        "pose": "轻松侧立，双手不遮挡胸前图案"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/graphic-stone-casual.png",
+      "status": "accepted"
+    },
+    {
+      "id": "gray-monogram-tailored-denim",
+      "name": "浅灰花纹·精裁牛仔",
+      "occasion": [
+        "travel",
+        "lunch",
+        "weekend"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-2aebb366-7538-4b73-92d6-2b45f0ea9c17",
+        "import-13852398-6474-411e-a846-4d2c1b152089",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "浅暖灰夹克和白 T 保持上身轻盈，深藏蓝西装结构牛仔裤提供清晰落点；内衬花纹与金色拉链只作为近看细节。",
+      "styling": {
+        "silhouette": "箱型连帽夹克配利落直筒精裁牛仔裤",
+        "waist": "白 T 自然落在腰线附近，不做多余塞衣",
+        "hem": "牛仔裤保留轻微裤线并整洁落在德训鞋上",
+        "layering": "夹克敞开，露出少量花纹内衬和金色拉链",
+        "colorLogic": "浅灰与白构成上部柔光，深藏蓝稳定下部，金色仅作微小暖点",
+        "shoeLogic": "奶油白鞋呼应白 T，避免引入第四种强色",
+        "tension": "低调花纹奢华细节与西装结构牛仔布并置",
+        "pose": "自然站立，一手轻触口袋但不遮住拉链"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/gray-monogram-tailored-denim.png",
+      "status": "accepted"
+    },
+    {
+      "id": "prada-reversible-black-tailoring",
+      "name": "Prada 双面·黑面精裁",
+      "occasion": [
+        "creative-office",
+        "dinner",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-ffa6ad97-5602-4654-b83c-2d249142b525",
+        "import-500f61b8-c364-4a94-ada0-cf7899bc1a3f",
+        "import-8c9aba6f-69cc-45ff-8237-6781b6645acf",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "黑色尼龙面把白衬衫和卡其西裤从传统商务中拉出来，黑色德比鞋再把技术外层收回精裁秩序。",
+      "styling": {
+        "silhouette": "轻量臀长尼龙夹克覆盖塞入式白衬衫与直筒西裤",
+        "waist": "衬衫完整塞入，夹克敞开或半拉以露出中线",
+        "hem": "卡其裤仅有一个干净折点",
+        "layering": "双面夹克黑色面朝外，银色拉链保持可见",
+        "colorLogic": "黑白构成上身高对比，卡其成为唯一暖色区域",
+        "shoeLogic": "黑德比与黑色夹克远距离呼应，稳定卡其裤",
+        "tension": "正装衬衫西裤与轻薄技术尼龙的类别冲突",
+        "pose": "正面略转，手臂离开身体以看清夹克轮廓"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/prada-reversible-black-tailoring.png",
+      "status": "accepted"
+    },
+    {
+      "id": "prada-reversible-navy-minimal",
+      "name": "Prada 双面·蓝面极简",
+      "occasion": [
+        "weekend",
+        "travel",
+        "casual-dinner"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-500f61b8-c364-4a94-ada0-cf7899bc1a3f",
+        "import-1b845ec0-79cf-4074-aae8-991aaf2ec8f1",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "同一件夹克翻到深蓝面后，与白 T、石灰裤形成更柔和的冷色极简层次；奶油白鞋让整套适合洛杉矶日常。",
+      "styling": {
+        "silhouette": "深蓝尼龙短外层配白 T 和直筒石灰裤",
+        "waist": "白 T 自然放下，长度控制在夹克以内",
+        "hem": "石灰裤脚轻触奶油德训鞋",
+        "layering": "双面夹克深蓝面朝外，敞开或轻拉至胸下",
+        "colorLogic": "深蓝为主锚，白与石灰逐级提亮，整体保持冷静",
+        "shoeLogic": "奶油白鞋延续白 T，但比纯白更柔和",
+        "tension": "有光泽的技术尼龙与哑光基础棉、石灰裤面形成细微材质差",
+        "pose": "缓慢行走，夹克轮廓和深蓝表面完整可见"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/prada-reversible-navy-minimal.png",
+      "status": "accepted"
+    },
+    {
+      "id": "linen-tonal-shorts",
+      "name": "亚麻同色·黑色中轴",
+      "occasion": [
+        "los-angeles-summer",
+        "weekend",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+        "import-9ae44830-a48a-41eb-bb8e-a83d42601143",
+        "import-fbb968d7-a920-4162-bb62-fd34528f48a0",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "米色亚麻工装上衣与同色短裤形成轻盈套装感，黑 T 建立清楚中轴，黑白低帮鞋把深色落到脚下；短裤终于获得适合洛杉矶夏季的独立穿法，不再依赖千鸟格和德比鞋制造冲突。",
+      "styling": {
+        "silhouette": "短袖亚麻工装上衣完全敞穿，搭配同色宽松及膝短裤与紧凑黑 T",
+        "waist": "黑 T 干净塞入以保持中轴；亚麻外层自然放下并保留抽褶下摆",
+        "hem": "短裤保持真实宽度和及膝长度，不卷边、不变成裙裤",
+        "layering": "亚麻工装上衣作为轻夹克完全敞开，胸袋与深色纽扣可见",
+        "colorLogic": "米色与奶油色是主体，黑 T 和鞋面黑色形成唯一深色轴线",
+        "shoeLogic": "黑白低帮鞋呼应黑 T，同时比黑袜与德比鞋轻；只配隐形袜",
+        "tension": "同色亚麻套装的松弛感与黑色城市中轴之间的克制反差",
+        "pose": "自然站立或慢步，双腿分开，完整露出短裤长度和低帮鞋"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/linen-tonal-shorts.png",
+      "status": "accepted"
+    },
+    {
+      "id": "black-jacket-white-tee-navy-denim",
+      "name": "黑夹克·白T·藏蓝牛仔",
+      "occasion": [
+        "everyday",
+        "smart-casual",
+        "city"
+      ],
+      "garmentIds": [
+        "import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2",
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-13852398-6474-411e-a846-4d2c1b152089",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "短款黑夹克建立清楚的上半身框架，白T提供干净留白，深藏蓝版型牛仔裤延续纵向深色线，黑色德比鞋把重量稳稳落到脚下；简单，但不是空泛的基础款堆叠。",
+      "styling": {
+        "silhouette": "短款结构夹克敞开，白T自然放下，直筒版型牛仔裤形成干净长线",
+        "waist": "白T下摆落在夹克下摆附近，不强行塞入，保留短夹克与长裤的比例关系",
+        "hem": "藏蓝牛仔裤保持真实直筒长度，裤脚轻落在黑色德比鞋上",
+        "layering": "黑夹克使用真实拉链完全敞开，领口与双侧插袋保持可见",
+        "colorLogic": "黑色是主框架，白色是唯一亮色断点，藏蓝作为黑色的近邻延长下半身",
+        "shoeLogic": "黑色德比鞋重复夹克重量，避免鞋子成为孤立色块",
+        "tension": "短款工装感外层与版型清楚的深色牛仔裤、偏正式德比鞋之间的轻微张力",
+        "pose": "轻微错轴慢步，双手离开夹克前襟，完整露出领型、拉链、口袋与裤鞋衔接"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/black-jacket-white-tee-navy-denim.png",
+      "status": "accepted"
+    },
+    {
+      "id": "black-jacket-brown-knit-cream-trouser",
+      "name": "黑夹克·棕针织·奶油裤",
+      "occasion": [
+        "smart-casual",
+        "casual-dinner",
+        "autumn"
+      ],
+      "garmentIds": [
+        "import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2",
+        "import-a1e71107-6d07-4e1a-849a-ca2c40477e3b",
+        "import-71525036-ee92-4e2d-987c-7d2d39e23abb",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "深棕针织Polo给黑夹克增加有触感的暖色内核，奶油白直筒裤制造清楚的明暗长线，黑色德比鞋与外层首尾呼应；整套有气质变化，但没有为了变化而加入第二个抢眼元素。",
+      "styling": {
+        "silhouette": "短夹克敞开压住细密针织上衣，奶油白直筒裤拉长下半身",
+        "waist": "针织Polo自然放下，长度控制在短夹克附近，让上下比例保持轻松而不松垮",
+        "hem": "奶油裤保持完整直筒裤脚，干净覆盖黑色德比鞋上缘",
+        "layering": "黑夹克完全敞开，棕色针织质感和Polo领口成为唯一可见的内层重点",
+        "colorLogic": "黑色主框架、深棕暖色支撑、奶油白亮色长线，三层价值关系清楚",
+        "shoeLogic": "黑色德比鞋重复外层，让浅色裤子不显漂浮",
+        "tension": "结构化短夹克与柔软针织、浅色直筒裤之间的材质和正式度反差",
+        "pose": "自然站姿或慢步，单手轻松垂落，避免遮住夹克口袋和针织层次"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/black-jacket-brown-knit-cream-trouser.png",
+      "status": "accepted"
+    },
+    {
+      "id": "black-jacket-1977-patchwork-denim",
+      "name": "黑夹克·1977图案·拼接牛仔",
+      "occasion": [
+        "street",
+        "weekend",
+        "casual"
+      ],
+      "garmentIds": [
+        "import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2",
+        "import-ff41c246-ce2c-41be-8179-4cc985a197bb",
+        "import-95687e2a-e3fd-4225-bf83-17cf71b861a0",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "1977图案T是唯一的视觉声明，黑夹克把它收进清楚的短款框架，灰色拼接牛仔裤提供体积与材质变化，黑白Dior德训鞋解释了上下的黑白关系；图案、拼接和鞋型各司其职。",
+      "styling": {
+        "silhouette": "短款结构夹克敞开平衡宽腿拼接牛仔裤，图案T保持自然放下",
+        "waist": "图案T下摆不塞入，利用短夹克长度建立上短下宽的比例策略",
+        "hem": "拼接牛仔裤保留真实的宽度和微短裤脚，黑白低帮鞋完整露出，不制造意外空档",
+        "layering": "黑夹克完全敞开，1977图案保持可见，外层不遮住内层主体",
+        "colorLogic": "黑灰为控制底色，奶油图案与鞋面白色互相解释，只有一个图案焦点",
+        "shoeLogic": "黑白Dior德训鞋重复T恤图案的黑白关系，承接宽裤而不过度抢戏",
+        "tension": "简洁翻领短夹克与图案、拼接、宽腿比例形成有控制的街头张力",
+        "pose": "轻微错轴行走，双手离开前襟，确保图案、拼接裤片和鞋型都能读到"
+      },
+      "styleScore": 8,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/black-jacket-1977-patchwork-denim.png",
+      "status": "accepted"
+    },
+    {
+      "id": "cream-linen-black-jacket",
+      "name": "奶油亚麻·黑色短夹克",
+      "occasion": [
+        "everyday",
+        "gallery",
+        "summer-evening"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-fbb968d7-a920-4162-bb62-fd34528f48a0",
+        "import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "黑色短夹克给奶油色亚麻短裤建立清楚的上半身框架，白 T 和白鞋重复亮色，干净但不单薄。",
+      "styling": {
+        "silhouette": "短款翻领夹克敞开，白色基础 T 恤自然放下，奶油亚麻短裤保留真实长度",
+        "waist": "夹克下摆和短裤腰线都可见，不强行塞衣",
+        "hem": "短裤保持原本的直落下摆，白色德训鞋轻轻收住腿部",
+        "layering": "黑色夹克使用真实拉链自然敞开",
+        "colorLogic": "黑色是主框架，奶油色是主体支撑，白色在内层和鞋面形成亮色呼应",
+        "shoeLogic": "白鞋重复白 T，让浅色短裤和上身连成一条轻色线",
+        "tension": "结构化短夹克与轻薄纹理亚麻之间的材质反差",
+        "pose": "自然错轴慢步，夹克前襟打开，双手不遮住短裤"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/cream-linen-black-jacket.png",
+      "status": "accepted"
+    },
+    {
+      "id": "beige-pleat-charcoal-blazer",
+      "name": "浅卡其前褶·炭灰西装",
+      "occasion": [
+        "smart-casual",
+        "design-event",
+        "dinner"
+      ],
+      "garmentIds": [
+        "import-467ae0cb-bbf5-480b-a00e-6478d4dd5d7e",
+        "import-f840ea1f-4795-45d5-8cae-94044246908a",
+        "import-190fdd72-c253-4ee7-bd66-89fe42c0c591",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "炭灰西装的正式垂线把浅卡其短裤的休闲感提起来，前褶和腰袢保留清楚，黑德比让短裤不显轻飘。",
+      "styling": {
+        "silhouette": "白色宽肩背心配浅卡其前褶短裤，炭灰西装敞开形成两条长垂线",
+        "waist": "背心自然贴近腰线，短裤的两道褶皱和腰袢完整可见",
+        "hem": "短裤保持真实长度，黑色德比鞋做有意的正式收尾",
+        "layering": "炭灰西装使用真实纽扣结构保持敞开",
+        "colorLogic": "炭灰是深色主框架，浅卡其是暖色支撑，白色是克制亮点",
+        "shoeLogic": "黑德比重复西装的深色重量，让短裤比例更稳",
+        "tension": "正式西装与短裤、背心之间的夏季反差",
+        "pose": "轻微错轴站姿，一脚向前，手臂离开前褶和腰线"
+      },
+      "styleScore": 10,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/beige-pleat-charcoal-blazer.png",
+      "status": "accepted"
+    },
+    {
+      "id": "black-cargo-taupe-fleece",
+      "name": "黑色多袋·灰棕抓绒",
+      "occasion": [
+        "travel",
+        "weekend",
+        "casual"
+      ],
+      "garmentIds": [
+        "import-467ae0cb-bbf5-480b-a00e-6478d4dd5d7e",
+        "import-8ce57e41-d97e-4683-b9aa-d2d4baba66bd",
+        "import-00400500-3992-425e-a91c-21f4abb203bf",
+        "import-bb698ffa-67e1-4151-8a97-2c6fc0fcbff1"
+      ],
+      "reason": "黑色多袋短裤保持功能感，灰棕抓绒外套负责材质变化，白背心和灰跑鞋只做轻量提亮。",
+      "styling": {
+        "silhouette": "灰棕抓绒夹克覆盖白色宽肩背心和黑色多袋短裤，保持自然短外套比例",
+        "waist": "外套下摆落在短裤腰线附近，不制造额外层次",
+        "hem": "短裤完整露出，灰色跑鞋延续休闲技术感",
+        "layering": "抓绒外套只用真实拉链部分打开，保留其领口、纹理和袖口",
+        "colorLogic": "黑色为主体，灰棕是纹理支撑，白色只在胸口形成小面积亮色",
+        "shoeLogic": "灰跑鞋重复外套的灰棕方向，不引入孤立色",
+        "tension": "柔软抓绒与多袋短裤的功能结构形成材质对照",
+        "pose": "自然行走，一手入袋，另一手让短裤口袋和外套纹理保持可读"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/black-cargo-taupe-fleece.png",
+      "status": "accepted"
+    },
+    {
+      "id": "black-shorts-houndstooth",
+      "name": "黑色短裤·棕色千鸟格",
+      "occasion": [
+        "weekend",
+        "gallery",
+        "smart-casual"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-f5322a63-54af-43c4-b466-8ca13a705758",
+        "import-06ee7b66-f1f2-4abf-b498-2a6ace3759e2",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "棕色千鸟格夹克作为唯一视觉重点，黑色基础短裤和德比鞋安静收底，白 T 给图案留出干净背景。",
+      "styling": {
+        "silhouette": "千鸟格拉链夹克敞开，白 T 自然放下，黑色基础短裤维持简洁线条",
+        "waist": "白 T 下摆与短裤腰线自然衔接，不强行塞衣",
+        "hem": "短裤保留原本的简单下摆，黑德比鞋提供精确收尾",
+        "layering": "千鸟格夹克使用真实全拉链敞开，保留棕色灯芯绒领和短款长度",
+        "colorLogic": "千鸟格是唯一主角，黑色提供稳定底色，白色为图案增加留白",
+        "shoeLogic": "黑德比重复短裤和图案中的深色，不与夹克争夺焦点",
+        "tension": "传统纹理夹克与极简短裤、正式鞋之间的克制冲突",
+        "pose": "轻微错轴站姿，夹克敞开，双手不遮挡短裤和外套下摆"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/black-shorts-houndstooth.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback-monogram-taupe",
+      "name": "Monogram·黑色内搭·灰褐抽绳",
+      "occasion": [
+        "weekend",
+        "gallery",
+        "casual-city"
+      ],
+      "garmentIds": [
+        "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+        "import-91b2d0db-e431-4c37-8b21-8ec6ba0f3128",
+        "import-2aebb366-7538-4b73-92d6-2b45f0ea9c17",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "保留浅灰 Monogram 外套的轻盈和纹理，但把白内搭、蓝裤子的固定答案换成黑色内搭与灰褐抽绳长裤，让它更休闲、更有层次。",
+      "styling": {
+        "silhouette": "浅灰连帽夹克敞开覆盖黑色短袖 T 恤，下面接灰褐直筒抽绳长裤",
+        "waist": "黑 T 下摆和抽绳腰头自然衔接，不强行制造高腰",
+        "hem": "抽绳长裤保持一条干净裤线，以黑白德训鞋收住",
+        "layering": "Monogram 夹克使用真实全拉链自然敞开，露出黑色内搭和连帽结构",
+        "colorLogic": "浅灰是主框架，灰褐提供温度，黑色内搭和黑白鞋把视觉重量落到底部",
+        "shoeLogic": "黑白德训鞋重复黑色内搭，同时保留浅灰外套的轻量感",
+        "tension": "轻技术外层与柔软抽绳裤的材质关系，避免正式感",
+        "pose": "自然行走，身体轻微错轴，一手靠近裤袋，外套下摆和腰头保持可读"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback-monogram-taupe.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback-brown-short-panel",
+      "name": "短棕夹克·浅蓝衬衫·拼接灰牛仔",
+      "occasion": [
+        "gallery",
+        "weekend",
+        "casual-city"
+      ],
+      "garmentIds": [
+        "import-026f493d-3f55-440f-b31b-512f451b1f3d",
+        "import-95687e2a-e3fd-4225-bf83-17cf71b861a0",
+        "import-f13e88bc-162e-4098-8fb0-c09008b0753f",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "用短款棕色夹克修正拼接宽腿牛仔的体量，浅蓝衬衫只提供一处冷色，不走白衬衫加蓝裤子的常规答案。",
+      "styling": {
+        "silhouette": "短款棕色夹克落在腰线附近，浅蓝衬衫形成窄露出，拼接宽腿牛仔向下展开",
+        "waist": "衬衫浅前塞保持真实腰线，夹克下摆不覆盖拼接裤头",
+        "hem": "拼接牛仔保持全长，以一个自然折点落在黑白德训鞋上",
+        "layering": "棕色夹克使用真实前襟自然敞开，露出浅蓝衬衫",
+        "colorLogic": "灰色拼接牛仔是视觉主角，棕色是暖色支撑，浅蓝是单一冷色点缀，鞋子呼应拼接中的深色",
+        "shoeLogic": "黑白德训鞋承接牛仔深色拼接，不引入第四种颜色",
+        "tension": "短款外套的整洁上身与宽腿重构牛仔的休闲体量形成张力",
+        "pose": "轻微行走和错轴站姿，保持裤子拼接线和夹克下摆清楚"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback-brown-short-panel.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback-light-shell-pleats",
+      "name": "轻技术外套·前褶短裤",
+      "occasion": [
+        "warm-weather",
+        "weekend",
+        "casual-city"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-f840ea1f-4795-45d5-8cae-94044246908a",
+        "import-e690180e-8b4b-41dd-b9a4-f625a482a8c0",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "验证短裤与外套可以成立，但把厚度控制在轻技术外套，并让前褶、腰头和鞋的关系清楚可见。",
+      "styling": {
+        "silhouette": "轻薄技术外套的短垂线覆盖白 T，下面接自然腰位的浅卡其前褶短裤",
+        "waist": "短裤前褶、腰袢、纽扣和闭合拉链完整露出，外套下摆停在腰线附近",
+        "hem": "短裤保留真实裤长，白色低帮鞋保持轻量收尾",
+        "layering": "技术外套使用真实拉链敞开，不用厚重抓绒或冬季叠穿",
+        "colorLogic": "浅灰与白色构成冷静上身，浅卡其提供暖色支撑，整体只保留低饱和明度差",
+        "shoeLogic": "白鞋延续白 T，避免短裤造型出现孤立鞋色",
+        "tension": "技术面料与前褶短裤的轻微功能和剪裁对照",
+        "pose": "一脚向前的自然行走，双手不遮挡腰头、前褶和短裤下摆"
+      },
+      "styleScore": 8,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback-light-shell-pleats.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback-utility-linen-derby",
+      "name": "黑色工装衬衫·亚麻短裤",
+      "occasion": [
+        "warm-weather",
+        "gallery",
+        "dinner-casual"
+      ],
+      "garmentIds": [
+        "import-424d734b-e5ac-4693-8529-8352f5aaaf60",
+        "import-fbb968d7-a920-4162-bb62-fd34528f48a0",
+        "import-3d53789b-5ee5-4c45-ba66-0e120dca03f6",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "用黑色短袖工装衬衫和黑德比建立中轴，让奶油米色亚麻短裤保持轻盈但不显得随便。",
+      "styling": {
+        "silhouette": "黑色短袖工装衬衫敞开形成短外框，白背心和奶油米色亚麻短裤保持清晰夏季比例",
+        "waist": "亚麻短裤真实腰头、黑色纽扣和闭合拉链可见，不添加抽绳",
+        "hem": "短裤保留原始裤长，黑德比鞋把轻薄亚麻向下压住",
+        "layering": "短袖工装衬衫用真实纽扣结构敞开，衣长停在短裤腰线附近",
+        "colorLogic": "黑色是中轴和主框架，奶油米色是材质支撑，白色只在内搭形成亮面",
+        "shoeLogic": "黑德比重复黑色外层，给短裤一个有意识的精确收尾",
+        "tension": "休闲亚麻短裤与抛光德比鞋、短袖工装结构之间的夏季张力",
+        "pose": "轻微错轴行走，一手靠近裤袋，衬衫口袋、亚麻纹理和短裤腰线不被遮挡"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback-utility-linen-derby.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback-teal-cream-column",
+      "name": "蓝绿色卫衣·奶油白直筒",
+      "occasion": [
+        "weekend",
+        "gallery",
+        "casual-city"
+      ],
+      "garmentIds": [
+        "import-50187ed3-9a0c-405f-afa6-0b3c46d72d1b",
+        "import-71525036-ee92-4e2d-987c-7d2d39e23abb",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "不再给蓝绿色卫衣强行加外套，而是用奶油白直筒裤和黑德比把它从跳脱颜色变成单一主角。",
+      "styling": {
+        "silhouette": "蓝绿色连帽衫自然落在奶油白直筒长裤上，形成紧凑上身和干净长线",
+        "waist": "卫衣下摆保持真实位置，奶油裤自然腰线和前片保持清楚",
+        "hem": "奶油直筒裤以零至一个折点落在黑德比鞋面",
+        "layering": "不叠加外套，让连帽衫本身成为主角，保留真实帽子、抽绳和标志",
+        "colorLogic": "蓝绿色是唯一主色，奶油白负责降噪，黑色鞋履提供底部重量",
+        "shoeLogic": "黑德比把卫衣从运动休闲拉到更成熟的城市关系，但不引入第二个色彩焦点",
+        "tension": "柔软卫衣与正式鞋型之间的单一类别张力",
+        "pose": "偏轴行走，一手自然靠近裤袋，卫衣正面和裤线完整可读"
+      },
+      "styleScore": 8,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback-teal-cream-column.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback-cardigan-olive",
+      "name": "黑色开衫·白衬衫·橄榄机能",
+      "occasion": [
+        "gallery",
+        "creative-office",
+        "weekend"
+      ],
+      "garmentIds": [
+        "import-ffa6ad97-5602-4654-b83c-2d249142b525",
+        "import-4e309587-ef6d-4ca3-b07f-20bd95e7cd5a",
+        "import-a761e9f6-2187-4ae6-8116-e8054202d0e2",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "用针织开衫取代西装外套，把白衬衫的秩序和橄榄机能裤的实用感接起来，保留层次但降低正式度。",
+      "styling": {
+        "silhouette": "黑色 V 领针织开衫叠白衬衫，下面接橄榄色机能长裤，形成上窄下直的城市线条",
+        "waist": "衬衫下摆和橄榄裤腰自然衔接，开衫下摆停在腰线附近",
+        "hem": "橄榄长裤保持全长，用黑白德训鞋完成干净落点",
+        "layering": "开衫使用真实纽扣自然扣合，露出白衬衫领口和袖口，不模拟西装结构",
+        "colorLogic": "橄榄是实用主色，黑色开衫建立暗框，白衬衫提供清晰亮面，鞋子重复黑色",
+        "shoeLogic": "黑白德训鞋连接黑色开衫和白色衬衫，保持机能裤的轻松感",
+        "tension": "衬衫和开衫的秩序感与橄榄机能裤的功能细节形成轻微对照",
+        "pose": "自然缓步和轻微错轴，保持领口、开衫口袋和机能裤口袋可读"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback-cardigan-olive.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback2-cardigan-drawstring",
+      "name": "黑色开衫·白T·灰褐抽绳",
+      "occasion": [
+        "gallery",
+        "weekend",
+        "creative-office"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-91b2d0db-e431-4c37-8b21-8ec6ba0f3128",
+        "import-a761e9f6-2187-4ae6-8116-e8054202d0e2",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "保留你喜欢的黑色开衫层次，但把衬衫换成白色基础 T 恤，再用灰褐抽绳长裤把正式感压下来，形成更松弛的日常比例。",
+      "styling": {
+        "silhouette": "黑色开衫形成柔软外框，白 T 做亮色内层，灰褐抽绳长裤自然向下垂落",
+        "waist": "抽绳裤腰保持真实松紧和自然收束，白 T 下摆轻微露出，不刻意扎入",
+        "hem": "长裤保持完整裤长，裤脚轻落在白色德训鞋上，不拉长腿部比例",
+        "layering": "开衫真实纽扣自然敞开，露出白 T 领口和衣身，不模拟西装结构",
+        "colorLogic": "黑色、白色和低饱和灰褐形成安静明暗关系，避免过度配色",
+        "shoeLogic": "白色德训鞋延续白 T 的亮面，给宽松裤型一个轻落点",
+        "tension": "针织开衫的秩序感和抽绳裤的松弛感形成轻微但自然的张力",
+        "pose": "眼平视角自然站立，一手靠近裤袋，完整保留开衫、裤腰和鞋面细节"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback2-cardigan-drawstring.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback2-monogram-graphic-tech",
+      "name": "Monogram·Diesel图案·黑色机能",
+      "occasion": [
+        "gallery",
+        "weekend",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-09848e7b-9a9d-48f6-8499-14318979df95",
+        "import-f73a15b2-d15e-4dc2-a0fe-2da00505de82",
+        "import-2aebb366-7538-4b73-92d6-2b45f0ea9c17",
+        "import-46872023-1f94-4d7a-910b-3342f3546c85"
+      ],
+      "reason": "回应你对 Monogram 外套只有一种搭法的担心，用黑色 Diesel 图案 T 恤做唯一视觉重点，再以黑色机能裤压住整体。",
+      "styling": {
+        "silhouette": "浅灰外套敞开形成明框，图案 T 恤集中在胸腹区域，黑色长裤延续纵向线条",
+        "waist": "T 恤下摆自然落在机能裤腰附近，外套下摆保持真实长度",
+        "hem": "黑色机能裤保持全长，户外鞋完整露出，不用低机位拉长腿",
+        "layering": "Monogram 外套真实拉链敞开，只露出图案 T 恤，不添加额外内搭",
+        "colorLogic": "浅灰外套和黑色下装做克制底色，图案 T 恤承担全部视觉焦点",
+        "shoeLogic": "灰黑户外鞋把黑色裤线落到地面，呼应外套的技术感",
+        "tension": "图案 T 恤的街头感与 Monogram 外套的精致纹理形成清晰但不过度的对比",
+        "pose": "自然站立、双手轻靠裤袋，保持图案、拉链和鞋面清晰可读"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback2-monogram-graphic-tech.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback2-teal-black-panel",
+      "name": "蓝绿卫衣·黑色短夹克·拼接牛仔",
+      "occasion": [
+        "gallery",
+        "weekend",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-50187ed3-9a0c-405f-afa6-0b3c46d72d1b",
+        "import-95687e2a-e3fd-4225-bf83-17cf71b861a0",
+        "import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "给你觉得难搭的蓝绿色卫衣一个真正不同的外套方案：短款黑色夹克收住上半身，拼接灰牛仔承担下方的变化。",
+      "styling": {
+        "silhouette": "短款黑夹克停在腰线，蓝绿色卫衣提供帽型和色块，拼接牛仔保持直落裤线",
+        "waist": "卫衣下摆自然盖住裤腰一小段，避免把身体切得过高",
+        "hem": "拼接牛仔保持实际裤长，裤脚自然落在黑白德训鞋上",
+        "layering": "黑色夹克真实拉链敞开，卫衣帽子自然露出，不制造厚重堆叠",
+        "colorLogic": "蓝绿色是唯一饱和色，黑色夹克压住上半身，灰色拼接牛仔提供低对比变化",
+        "shoeLogic": "黑白德训鞋连接黑色夹克与灰色牛仔，保持下装干净",
+        "tension": "卫衣的运动感和短款翻领夹克的利落肩线形成明确层次，不走商务路线",
+        "pose": "眼平视角自然站立，双手轻放裤袋，保留帽子、夹克长度和拼接裤片"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback2-teal-black-panel.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback2-brown-olive-quiet",
+      "name": "棕色短夹克·白衬衫·橄榄机能",
+      "occasion": [
+        "gallery",
+        "weekend",
+        "creative-office"
+      ],
+      "garmentIds": [
+        "import-ffa6ad97-5602-4654-b83c-2d249142b525",
+        "import-4e309587-ef6d-4ca3-b07f-20bd95e7cd5a",
+        "import-f13e88bc-162e-4098-8fb0-c09008b0753f",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "针对你说的上一版内衬饱和度太高，换成白色长袖衬衫，让棕色短夹克和橄榄裤之间保持低饱和、轻松的关系。",
+      "styling": {
+        "silhouette": "短款棕色夹克形成腰线上方的暗色框架，白衬衫垂直落下，橄榄机能裤提供宽松下身",
+        "waist": "白衬衫长度控制在裤腰附近，夹克下摆停在自然腰线，不显拖沓",
+        "hem": "橄榄长裤保持全长，黑白德训鞋给裤脚一个稳的落点",
+        "layering": "夹克真实前襟敞开，白衬衫作为低饱和内层，不加入高饱和颜色",
+        "colorLogic": "深棕、白色、橄榄三色形成自然土地色关系，降低视觉噪音",
+        "shoeLogic": "黑白鞋把棕色夹克的深色和白衬衫的亮色重新连接",
+        "tension": "短款外套的利落和机能裤的日常感相互平衡，不把造型推向正式",
+        "pose": "自然站姿、一手插袋，展示夹克长度、衬衫下摆和裤袋结构"
+      },
+      "styleScore": 8,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback2-brown-olive-quiet.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback2-light-shell-olive-tech",
+      "name": "浅灰技术外套·黑T·橄榄长裤",
+      "occasion": [
+        "weekend",
+        "travel",
+        "gallery"
+      ],
+      "garmentIds": [
+        "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+        "import-00fea340-57ae-4abe-b116-d798d276d819",
+        "import-e690180e-8b4b-41dd-b9a4-f625a482a8c0",
+        "import-46872023-1f94-4d7a-910b-3342f3546c85"
+      ],
+      "reason": "重新处理技术外套的比例：只保留轻薄外壳、黑色基础 T、完整橄榄长裤和户外鞋，避免厚重或不必要的叠穿。",
+      "styling": {
+        "silhouette": "浅灰短外套与黑色紧凑内层形成上窄框架，橄榄长裤自然向下延伸",
+        "waist": "黑 T 下摆轻落在橄榄裤腰附近，外套下摆不盖住裤腰太多",
+        "hem": "橄榄裤保持全长，户外鞋稳稳接住裤脚，不使用夸张低角度",
+        "layering": "技术外套真实拉链敞开，保留真实帽型，不在里面添加卫衣",
+        "colorLogic": "浅灰、黑色、橄榄是低饱和技术城市配色，只有鞋子承担少量户外感",
+        "shoeLogic": "灰黑户外鞋和浅灰外套形成上下呼应，避免鞋子孤立",
+        "tension": "轻技术面料与橄榄日常长裤形成实用关系，不做徒步套装",
+        "pose": "眼平视角自然站立，双手轻靠裤袋，保留外套、腰线和鞋面细节"
+      },
+      "styleScore": 8,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback2-light-shell-olive-tech.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback2-navy-tank-linen",
+      "name": "黑色工装衬衫·藏蓝背心·亚麻短裤",
+      "occasion": [
+        "weekend",
+        "travel",
+        "gallery"
+      ],
+      "garmentIds": [
+        "import-cbbb13b0-8f9c-4cb2-b4f3-ed867fc04bfc",
+        "import-fbb968d7-a920-4162-bb62-fd34528f48a0",
+        "import-3d53789b-5ee5-4c45-ba66-0e120dca03f6",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "保留你认可的黑色工装衬衫＋亚麻短裤方向，但把白背心换成藏蓝背心，让短裤叠穿有新的色彩重心。",
+      "styling": {
+        "silhouette": "黑色短袖工装衬衫敞开形成上层边界，藏蓝背心收住胸口，奶油亚麻短裤保持轻盈",
+        "waist": "短裤使用真实扣子和拉链闭合，不加抽绳和腰带，裤腰自然落在身体腰线",
+        "hem": "亚麻短裤保持真实膝上长度，黑色德比鞋把轻薄面料压稳",
+        "layering": "工装衬衫真实纽扣敞开，藏蓝背心作为唯一内层，不添加其他 T 恤",
+        "colorLogic": "黑色和藏蓝建立深色上半身，奶油米色短裤提供清晰亮面，形成夏季对比",
+        "shoeLogic": "黑色德比鞋重复工装衬衫的深色，让短裤不会显得漂浮",
+        "tension": "短袖工装衬衫的结构感和亚麻短裤的松弛感形成夏季叠穿，而不是简单短袖配短裤",
+        "pose": "自然站立、手轻插裤袋，完整展示衬衫开合、裤腰和短裤长度"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback2-navy-tank-linen.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback3-houndstooth-gray",
+      "name": "千鸟格·白T·浅灰长裤",
+      "occasion": [
+        "gallery",
+        "weekend",
+        "creative-office"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-06ee7b66-f1f2-4abf-b498-2a6ace3759e2",
+        "import-1b845ec0-79cf-4074-aae8-991aaf2ec8f1",
+        "import-544872fc-e9ed-43f0-8062-9a59c4c827ef"
+      ],
+      "reason": "沿用你对千鸟格方向的正面反馈，但把衬衫和西装感拿掉，改成白 T、浅灰全长裤和德比鞋，重点先修比例。",
+      "styling": {
+        "silhouette": "短款千鸟格夹克形成纹理上框，白 T 做干净内层，浅灰直筒长裤自然向下延伸",
+        "waist": "白 T 下摆轻落在裤腰附近，夹克停在自然腰线，不制造过高腰线",
+        "hem": "浅灰裤保持全长，德比鞋稳住裤脚，不使用低机位或拉长腿部",
+        "layering": "夹克真实敞开，只有白色基础 T 恤作为内层，不模拟衬衫或西装叠穿",
+        "colorLogic": "棕灰千鸟格、白色、浅灰构成低饱和明暗关系，避免额外颜色干扰",
+        "shoeLogic": "黑色德比鞋给浅灰裤脚一个清晰落点，也回应夹克深色格纹",
+        "tension": "纹理外套和简单 T 恤之间保留经典感，但不走学院或商务路线",
+        "pose": "眼平视角自然站立，一手靠近裤袋，完整展示夹克长度、裤线和鞋面"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback3-houndstooth-gray.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback3-traveller-khaki",
+      "name": "Traveller·黑T·浅卡其长裤",
+      "occasion": [
+        "weekend",
+        "travel",
+        "gallery"
+      ],
+      "garmentIds": [
+        "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+        "import-7960424e-a756-41dc-b021-c5277490b365",
+        "import-106786c9-1457-4934-9e11-e785dc800b13",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "保留你评价为经典的 Traveller 方向，但用黑 T 和浅卡其休闲长裤降掉正式感，避免三层叠穿和西装框架。",
+      "styling": {
+        "silhouette": "藏蓝长款 Traveller 外套形成纵向框架，黑 T 收住中段，浅卡其长裤平衡外套重量",
+        "waist": "黑 T 下摆停在裤腰附近，外套敞开但不压住腰线，避免比例被拉长",
+        "hem": "浅卡其裤保持全长，白色德训鞋自然落地，保留真实腿长",
+        "layering": "Traveller 外套真实敞开，只使用一件黑色基础 T，不加入衬衫或西装",
+        "colorLogic": "藏蓝、黑色、浅卡其组成稳定的城市中性色组合",
+        "shoeLogic": "白色德训鞋提亮浅卡其裤脚，让长外套不显沉重",
+        "tension": "多袋外套的功能感和干净内搭形成日常层次，不把造型推向正式",
+        "pose": "自然缓步、眼平视角、完整露出外套口袋和裤脚，不使用夸张纵深"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback3-traveller-khaki.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback3-reversible-panel",
+      "name": "双面尼龙·藏蓝背心·拼接牛仔",
+      "occasion": [
+        "weekend",
+        "travel",
+        "gallery"
+      ],
+      "garmentIds": [
+        "import-cbbb13b0-8f9c-4cb2-b4f3-ed867fc04bfc",
+        "import-500f61b8-c364-4a94-ada0-cf7899bc1a3f",
+        "import-95687e2a-e3fd-4225-bf83-17cf71b861a0",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "把难搭的双面尼龙夹克放进更休闲的语境：藏蓝背心、拼接牛仔和德训鞋，不再做黑色精裁或商务搭法。",
+      "styling": {
+        "silhouette": "黑色尼龙夹克自然收在腰部，藏蓝背心形成小面积内柱，拼接牛仔提供完整下身结构",
+        "waist": "背心下摆自然落在牛仔裤腰附近，夹克下摆不压住裤腰太多",
+        "hem": "拼接牛仔保持全长，黑白德训鞋连接深色上身和灰色裤片",
+        "layering": "双面夹克使用黑面真实拉链敞开，只露出藏蓝背心，不添加额外内搭",
+        "colorLogic": "黑色、藏蓝和灰色形成低饱和技术城市配色，拼接裤片承担变化",
+        "shoeLogic": "德训鞋的黑白关系呼应夹克和拼接牛仔，不增加新颜色",
+        "tension": "尼龙面料的轻微光泽和牛仔拼接的粗粝感形成明确但轻松的对比",
+        "pose": "自然站立、一手靠近裤袋，完整展示夹克拉链、背心边缘和拼接裤片"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback3-reversible-panel.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback3-cream-graphic-olive",
+      "name": "奶油工装·Diesel图案·橄榄长裤",
+      "occasion": [
+        "gallery",
+        "weekend",
+        "travel"
+      ],
+      "garmentIds": [
+        "import-09848e7b-9a9d-48f6-8499-14318979df95",
+        "import-e445cdc8-a22b-4ecb-8660-6e599b46f093",
+        "import-00fea340-57ae-4abe-b116-d798d276d819",
+        "import-46872023-1f94-4d7a-910b-3342f3546c85"
+      ],
+      "reason": "把技术感简化成三层关系：奶油色外套、一个图案 T 视觉重点、橄榄全长裤；避开厚重外套配短裤和复杂叠穿。",
+      "styling": {
+        "silhouette": "奶油多袋夹克形成亮色上框，黑色图案 T 集中在胸腹，橄榄长裤向下保持稳定",
+        "waist": "T 恤下摆自然落在橄榄裤腰附近，夹克真实长度保持轻松，不制造高腰错觉",
+        "hem": "橄榄裤保持全长，灰黑户外鞋接住裤脚，避免腿部被拉长",
+        "layering": "奶油夹克真实敞开，只保留一件 Diesel 图案 T，不增加额外内层",
+        "colorLogic": "奶油、黑色、橄榄是明确的三色关系，图案只承担一个焦点",
+        "shoeLogic": "灰黑户外鞋连接橄榄裤和奶油外套，保留实用感",
+        "tension": "图案 T 的街头感和多袋外套的秩序感形成轻微张力，但整体仍然简单",
+        "pose": "自然站立、双手轻靠裤袋，保持图案、外套口袋和鞋面完整可读"
+      },
+      "styleScore": 8,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback3-cream-graphic-olive.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback3-knit-navy-denim",
+      "name": "米灰针织Polo·藏蓝牛仔",
+      "occasion": [
+        "weekend",
+        "gallery",
+        "creative-office"
+      ],
+      "garmentIds": [
+        "import-26bd1649-ee86-463c-931e-5a0881af10d2",
+        "import-13852398-6474-411e-a846-4d2c1b152089",
+        "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14"
+      ],
+      "reason": "专门做一套简单基准：只用针织 Polo、藏蓝牛仔和白鞋，让系统测试不靠叠穿制造效果时是否仍然成立。",
+      "styling": {
+        "silhouette": "米灰针织上衣自然落下，藏蓝牛仔保持完整直线，白鞋提供轻落点",
+        "waist": "针织下摆自然停在裤腰附近，不扎入、不加腰带，保留松弛感",
+        "hem": "藏蓝牛仔保持全长，白色德训鞋露出完整鞋面，不使用低机位",
+        "layering": "不叠穿外套，只保留针织 Polo 的真实领口和袖口结构",
+        "colorLogic": "米灰和藏蓝是安静的低对比关系，白鞋只做轻微提亮",
+        "shoeLogic": "白鞋减轻藏蓝牛仔的重量，让单层上衣不会显得过于商务",
+        "tension": "针织纹理和深色牛仔提供足够质感，避免在单品数量上为了搭配而搭配",
+        "pose": "自然站立、眼平视角，展示真实衣长、裤型和鞋面，不拉长腿部"
+      },
+      "styleScore": 8,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback3-knit-navy-denim.png",
+      "status": "accepted"
+    },
+    {
+      "id": "feedback3-utility-khaki-shorts",
+      "name": "黑色工装衬衫·白T·浅卡其短裤",
+      "occasion": [
+        "weekend",
+        "travel",
+        "gallery"
+      ],
+      "garmentIds": [
+        "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+        "import-3e0699de-a21b-450e-94e2-b7abbd84b818",
+        "import-3d53789b-5ee5-4c45-ba66-0e120dca03f6",
+        "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef"
+      ],
+      "reason": "保留短裤叠穿这个方向，但只使用轻薄短袖工装衬衫和白 T，配浅卡其多袋短裤，避开厚外套和复杂比例。",
+      "styling": {
+        "silhouette": "黑色短袖衬衫敞开形成轻薄上层，白 T 提供明亮中轴，浅卡其短裤保持膝上宽松线条",
+        "waist": "短裤使用真实腰头和口袋，不加腰带、不添加抽绳，腰线保持自然",
+        "hem": "短裤保持真实长度，黑白德训鞋落在自然腿长上，不使用低角度",
+        "layering": "工装衬衫真实纽扣敞开，只叠一件白 T，不加马甲、外套或其他层",
+        "colorLogic": "黑色、白色和浅卡其构成清晰夏季三色，避免孤立跳色",
+        "shoeLogic": "黑白德训鞋重复上半身的黑白关系，给多袋短裤稳固收尾",
+        "tension": "工装衬衫的结构感和短裤的轻松感形成真正的夏季层次，不是为了凑搭",
+        "pose": "自然站立、双手轻靠短裤口袋，完整展示衬衫开合、短裤腰头和鞋面"
+      },
+      "styleScore": 9,
+      "setting": "固定冷灰混凝土建筑廊道，左侧自然光，右侧柱列",
+      "image": "wardrobe-data/outfits/feedback3-utility-khaki-shorts.png",
+      "status": "accepted"
+    }
+  ]
+}

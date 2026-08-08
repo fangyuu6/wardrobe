@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "import-ff41c246-ce2c-41be-8179-4cc985a197bb",
+    "name": "黑色图案T恤",
+    "part": "upperbody",
+    "color": "#151718",
+    "secondaryColor": null,
+    "palette": [
+      "#151718"
+    ],
+    "tags": [
+      "graphic",
+      "cotton",
+      "short-sleeve"
+    ],
+    "image": "wardrobe-data/garments/import-ff41c246-ce2c-41be-8179-4cc985a197bb-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-ff41c246-ce2c-41be-8179-4cc985a197bb-garment.png",
+    "importJobId": "ff41c246-ce2c-41be-8179-4cc985a197bb"
+  },
+  {
+    "id": "import-424d734b-e5ac-4693-8529-8352f5aaaf60",
+    "name": "白色背心",
+    "part": "upperbody",
+    "color": "#f2f0eb",
+    "secondaryColor": null,
+    "palette": [
+      "#f2f0eb"
+    ],
+    "tags": [
+      "ribbed",
+      "sleeveless",
+      "cotton"
+    ],
+    "image": "wardrobe-data/garments/import-424d734b-e5ac-4693-8529-8352f5aaaf60-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-424d734b-e5ac-4693-8529-8352f5aaaf60-garment.png",
+    "importJobId": "424d734b-e5ac-4693-8529-8352f5aaaf60"
+  },
+  {
+    "id": "import-f2a98ee1-9142-414e-8ad2-df06be43074c",
+    "name": "黑色基础T恤",
+    "part": "upperbody",
+    "color": "#111315",
+    "secondaryColor": null,
+    "palette": [
+      "#111315"
+    ],
+    "tags": [
+      "cotton",
+      "short-sleeve",
+      "basic"
+    ],
+    "image": "wardrobe-data/garments/import-f2a98ee1-9142-414e-8ad2-df06be43074c-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-f2a98ee1-9142-414e-8ad2-df06be43074c-garment.png",
+    "importJobId": "f2a98ee1-9142-414e-8ad2-df06be43074c"
+  },
+  {
+    "id": "import-190fdd72-c253-4ee7-bd66-89fe42c0c591",
+    "name": "炭灰西装外套",
+    "part": "wholebody_up",
+    "color": "#34383d",
+    "secondaryColor": null,
+    "palette": [
+      "#34383d"
+    ],
+    "tags": [
+      "tailored",
+      "blazer",
+      "smart-casual"
+    ],
+    "image": "wardrobe-data/garments/import-190fdd72-c253-4ee7-bd66-89fe42c0c591-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-190fdd72-c253-4ee7-bd66-89fe42c0c591-garment.png",
+    "importJobId": "190fdd72-c253-4ee7-bd66-89fe42c0c591"
+  },
+  {
+    "id": "import-a1e71107-6d07-4e1a-849a-ca2c40477e3b",
+    "name": "深棕针织Polo",
+    "part": "upperbody",
+    "color": "#50382d",
+    "secondaryColor": null,
+    "palette": [
+      "#50382d"
+    ],
+    "tags": [
+      "polo",
+      "knit",
+      "short-sleeve"
+    ],
+    "image": "wardrobe-data/garments/import-a1e71107-6d07-4e1a-849a-ca2c40477e3b-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-a1e71107-6d07-4e1a-849a-ca2c40477e3b-garment.png",
+    "importJobId": "a1e71107-6d07-4e1a-849a-ca2c40477e3b"
+  },
+  {
+    "id": "import-2000010b-bd13-400e-b52c-d2d7b3e49574",
+    "name": "红色图案T恤",
+    "part": "upperbody",
+    "color": "#d9281c",
+    "secondaryColor": null,
+    "palette": [
+      "#d9281c"
+    ],
+    "tags": [
+      "graphic",
+      "cotton",
+      "short-sleeve"
+    ],
+    "image": "wardrobe-data/garments/import-2000010b-bd13-400e-b52c-d2d7b3e49574-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-2000010b-bd13-400e-b52c-d2d7b3e49574-garment.png",
+    "importJobId": "2000010b-bd13-400e-b52c-d2d7b3e49574"
+  },
+  {
+    "id": "import-38d3350b-af33-4317-8f29-b675bafb70e8",
+    "name": "黑白条纹衬衫外套",
+    "part": "upperbody",
+    "color": "#e9e6da",
+    "secondaryColor": "#25282d",
+    "palette": [
+      "#e9e6da",
+      "#25282d"
+    ],
+    "tags": [
+      "striped",
+      "button-up",
+      "lightweight"
+    ],
+    "image": "wardrobe-data/garments/import-38d3350b-af33-4317-8f29-b675bafb70e8-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-38d3350b-af33-4317-8f29-b675bafb70e8-garment.png",
+    "importJobId": "38d3350b-af33-4317-8f29-b675bafb70e8"
+  },
+  {
+    "id": "import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+    "name": "白色基础T恤",
+    "part": "upperbody",
+    "color": "#eeeae0",
+    "secondaryColor": null,
+    "palette": [
+      "#eeeae0"
+    ],
+    "tags": [
+      "cotton",
+      "short-sleeve",
+      "basic"
+    ],
+    "image": "wardrobe-data/garments/import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-1d8ab5ad-bf78-4932-a601-79b1ebaec10b-garment.png",
+    "importJobId": "1d8ab5ad-bf78-4932-a601-79b1ebaec10b",
+    "quantity": 7,
+    "inventoryNote": "常备约 7 件，衣橱仅展示 1 件代表单品"
+  },
+  {
+    "id": "import-c349f5da-febf-49dd-86cd-c7d2c0ef6cfe",
+    "name": "绿色 Essentials 卫衣",
+    "part": "upperbody",
+    "color": "#74805a",
+    "secondaryColor": null,
+    "palette": [
+      "#74805a"
+    ],
+    "tags": [
+      "sweatshirt",
+      "graphic",
+      "fleece"
+    ],
+    "image": "wardrobe-data/garments/import-c349f5da-febf-49dd-86cd-c7d2c0ef6cfe-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-c349f5da-febf-49dd-86cd-c7d2c0ef6cfe-garment.png",
+    "importJobId": "c349f5da-febf-49dd-86cd-c7d2c0ef6cfe"
+  },
+  {
+    "id": "import-bb698ffa-67e1-4151-8a97-2c6fc0fcbff1",
+    "name": "灰色跑鞋",
+    "part": "shoes",
+    "color": "#7f8991",
+    "secondaryColor": "#e5e5df",
+    "palette": [
+      "#7f8991",
+      "#e5e5df"
+    ],
+    "tags": [
+      "running",
+      "mesh",
+      "new-balance"
+    ],
+    "image": "wardrobe-data/garments/import-bb698ffa-67e1-4151-8a97-2c6fc0fcbff1-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-bb698ffa-67e1-4151-8a97-2c6fc0fcbff1-garment.png",
+    "importJobId": "bb698ffa-67e1-4151-8a97-2c6fc0fcbff1"
+  },
+  {
+    "id": "import-03c9dc58-07a7-4fcb-9969-e7cec2445e14",
+    "name": "白色德训鞋",
+    "part": "shoes",
+    "color": "#eeeae1",
+    "secondaryColor": null,
+    "palette": [
+      "#eeeae1"
+    ],
+    "tags": [
+      "low-top",
+      "white",
+      "lace-up"
+    ],
+    "image": "wardrobe-data/garments/import-03c9dc58-07a7-4fcb-9969-e7cec2445e14-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-03c9dc58-07a7-4fcb-9969-e7cec2445e14-garment.png",
+    "importJobId": "03c9dc58-07a7-4fcb-9969-e7cec2445e14",
+    "colorName": "奶油白"
+  },
+  {
+    "id": "import-544872fc-e9ed-43f0-8062-9a59c4c827ef",
+    "name": "黑色高跟德比鞋",
+    "part": "shoes",
+    "color": "#171717",
+    "secondaryColor": null,
+    "palette": [
+      "#171717"
+    ],
+    "tags": [
+      "leather",
+      "lace-up",
+      "derby"
+    ],
+    "image": "wardrobe-data/garments/import-544872fc-e9ed-43f0-8062-9a59c4c827ef-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-544872fc-e9ed-43f0-8062-9a59c4c827ef-garment.png",
+    "importJobId": "544872fc-e9ed-43f0-8062-9a59c4c827ef",
+    "colorName": "墨黑"
+  },
+  {
+    "id": "import-6ddad4be-c4bc-48b8-83c8-397477ff72ef",
+    "name": "黑白dior德训鞋",
+    "part": "shoes",
+    "color": "#2c2e2f",
+    "secondaryColor": "#e7e1d7",
+    "palette": [
+      "#2c2e2f",
+      "#e7e1d7"
+    ],
+    "tags": [
+      "low-top",
+      "black-white",
+      "lace-up"
+    ],
+    "image": "wardrobe-data/garments/import-6ddad4be-c4bc-48b8-83c8-397477ff72ef-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-6ddad4be-c4bc-48b8-83c8-397477ff72ef-garment.png",
+    "importJobId": "6ddad4be-c4bc-48b8-83c8-397477ff72ef",
+    "colorName": "墨黑"
+  },
+  {
+    "id": "import-e445cdc8-a22b-4ecb-8660-6e599b46f093",
+    "name": "奶油色多袋夹克",
+    "part": "wholebody_up",
+    "color": "#e9dfce",
+    "secondaryColor": null,
+    "palette": [
+      "#e9dfce"
+    ],
+    "tags": [
+      "utility",
+      "patch-pockets",
+      "tailored"
+    ],
+    "image": "wardrobe-data/garments/import-e445cdc8-a22b-4ecb-8660-6e599b46f093-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-e445cdc8-a22b-4ecb-8660-6e599b46f093-garment.png",
+    "importJobId": "e445cdc8-a22b-4ecb-8660-6e599b46f093"
+  },
+  {
+    "id": "import-06ee7b66-f1f2-4abf-b498-2a6ace3759e2",
+    "name": "千鸟格棕色夹克",
+    "part": "wholebody_up",
+    "color": "#bba016",
+    "secondaryColor": "#5d4a3d",
+    "palette": [
+      "#bba016",
+      "#5d4a3d"
+    ],
+    "tags": [
+      "plaid",
+      "zip",
+      "contrast-collar"
+    ],
+    "image": "wardrobe-data/garments/import-06ee7b66-f1f2-4abf-b498-2a6ace3759e2-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-06ee7b66-f1f2-4abf-b498-2a6ace3759e2-garment.png",
+    "importJobId": "06ee7b66-f1f2-4abf-b498-2a6ace3759e2",
+    "colorName": "棕色"
+  },
+  {
+    "id": "import-3d53789b-5ee5-4c45-ba66-0e120dca03f6",
+    "name": "黑色短袖工装衬衫",
+    "part": "upperbody",
+    "color": "#171818",
+    "secondaryColor": null,
+    "palette": [
+      "#171818"
+    ],
+    "tags": [
+      "short-sleeve",
+      "button-up",
+      "utility"
+    ],
+    "image": "wardrobe-data/garments/import-3d53789b-5ee5-4c45-ba66-0e120dca03f6-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-3d53789b-5ee5-4c45-ba66-0e120dca03f6-garment.png",
+    "importJobId": "3d53789b-5ee5-4c45-ba66-0e120dca03f6"
+  },
+  {
+    "id": "import-b3830aa9-ab3a-42ad-aeaa-54d46277bb51",
+    "name": "黑色图案卫衣",
+    "part": "upperbody",
+    "color": "#272727",
+    "secondaryColor": "#c8bca3",
+    "palette": [
+      "#272727",
+      "#c8bca3"
+    ],
+    "tags": [
+      "graphic",
+      "fleece",
+      "crewneck"
+    ],
+    "image": "wardrobe-data/garments/import-b3830aa9-ab3a-42ad-aeaa-54d46277bb51-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-b3830aa9-ab3a-42ad-aeaa-54d46277bb51-garment.png",
+    "importJobId": "b3830aa9-ab3a-42ad-aeaa-54d46277bb51"
+  },
+  {
+    "id": "import-86ff7231-cae0-4981-9f84-34b760516d16",
+    "name": "卡其直筒长裤",
+    "part": "lowerbody",
+    "color": "#ad8f6a",
+    "secondaryColor": null,
+    "palette": [
+      "#ad8f6a"
+    ],
+    "tags": [
+      "straight-leg",
+      "khaki",
+      "cotton"
+    ],
+    "image": "wardrobe-data/garments/import-86ff7231-cae0-4981-9f84-34b760516d16-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-86ff7231-cae0-4981-9f84-34b760516d16-garment.png",
+    "importJobId": "86ff7231-cae0-4981-9f84-34b760516d16"
+  },
+  {
+    "id": "import-46872023-1f94-4d7a-910b-3342f3546c85",
+    "name": "灰黑户外徒步鞋",
+    "part": "shoes",
+    "color": "#666866",
+    "secondaryColor": "#171918",
+    "palette": [
+      "#666866",
+      "#171918"
+    ],
+    "tags": [
+      "hiking",
+      "outdoor",
+      "lace-up",
+      "reflective"
+    ],
+    "image": "wardrobe-data/garments/import-46872023-1f94-4d7a-910b-3342f3546c85-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-46872023-1f94-4d7a-910b-3342f3546c85-garment.png",
+    "importJobId": "46872023-1f94-4d7a-910b-3342f3546c85"
+  },
+  {
+    "id": "import-e690180e-8b4b-41dd-b9a4-f625a482a8c0",
+    "name": "浅灰技术连帽外套",
+    "part": "wholebody_up",
+    "color": "#dedbd6",
+    "secondaryColor": "#f5f4ef",
+    "palette": [
+      "#dedbd6",
+      "#f5f4ef"
+    ],
+    "tags": [
+      "technical",
+      "hooded",
+      "shell",
+      "lightweight"
+    ],
+    "image": "wardrobe-data/garments/import-e690180e-8b4b-41dd-b9a4-f625a482a8c0-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-e690180e-8b4b-41dd-b9a4-f625a482a8c0-garment.png",
+    "importJobId": "e690180e-8b4b-41dd-b9a4-f625a482a8c0"
+  },
+  {
+    "id": "import-7960424e-a756-41dc-b021-c5277490b365",
+    "name": "藏蓝长款多袋工装夹克 Traveller",
+    "part": "wholebody_up",
+    "color": "#182438",
+    "secondaryColor": "#101318",
+    "palette": [
+      "#182438",
+      "#101318"
+    ],
+    "tags": [
+      "utility",
+      "field",
+      "four-pocket",
+      "hip-length",
+      "longline",
+      "layerable",
+      "lightweight",
+      "zip",
+      "snap"
+    ],
+    "image": "wardrobe-data/garments/import-7960424e-a756-41dc-b021-c5277490b365-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-7960424e-a756-41dc-b021-c5277490b365-garment.png",
+    "importJobId": "7960424e-a756-41dc-b021-c5277490b365",
+    "colorName": "藏蓝",
+    "fitNotes": "真实下摆到低胯或上大腿，版型可容纳衬衫与西装叠穿；生成效果图时不可画成齐腰短款"
+  },
+  {
+    "id": "import-f13e88bc-162e-4098-8fb0-c09008b0753f",
+    "name": "棕色短款翻领外套",
+    "part": "wholebody_up",
+    "color": "#343239",
+    "secondaryColor": null,
+    "palette": [
+      "#343239"
+    ],
+    "tags": [
+      "overshirt",
+      "collar",
+      "button-up"
+    ],
+    "image": "wardrobe-data/garments/import-f13e88bc-162e-4098-8fb0-c09008b0753f-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-f13e88bc-162e-4098-8fb0-c09008b0753f-garment.png",
+    "importJobId": "f13e88bc-162e-4098-8fb0-c09008b0753f",
+    "colorName": "棕色"
+  },
+  {
+    "id": "import-26bd1649-ee86-463c-931e-5a0881af10d2",
+    "name": "米灰针织Polo",
+    "part": "upperbody",
+    "color": "#d1c8bc",
+    "secondaryColor": "#eee9df",
+    "palette": [
+      "#d1c8bc",
+      "#eee9df"
+    ],
+    "tags": [
+      "knit",
+      "polo",
+      "long-sleeve"
+    ],
+    "image": "wardrobe-data/garments/import-26bd1649-ee86-463c-931e-5a0881af10d2-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-26bd1649-ee86-463c-931e-5a0881af10d2-garment.png",
+    "importJobId": "26bd1649-ee86-463c-931e-5a0881af10d2"
+  },
+  {
+    "id": "import-9ae44830-a48a-41eb-bb8e-a83d42601143",
+    "name": "亚麻短袖工装衬衫",
+    "part": "upperbody",
+    "color": "#e8dfd0",
+    "secondaryColor": null,
+    "palette": [
+      "#e8dfd0"
+    ],
+    "tags": [
+      "utility",
+      "short-sleeve",
+      "pockets"
+    ],
+    "image": "wardrobe-data/garments/import-9ae44830-a48a-41eb-bb8e-a83d42601143-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-9ae44830-a48a-41eb-bb8e-a83d42601143-garment.png",
+    "importJobId": "9ae44830-a48a-41eb-bb8e-a83d42601143",
+    "colorName": "米色"
+  },
+  {
+    "id": "import-00400500-3992-425e-a91c-21f4abb203bf",
+    "name": "灰棕抓绒拉链外套",
+    "part": "wholebody_up",
+    "color": "#a4968a",
+    "secondaryColor": "#f2ede7",
+    "palette": [
+      "#a4968a",
+      "#f2ede7"
+    ],
+    "tags": [
+      "fleece",
+      "zip",
+      "warm"
+    ],
+    "image": "wardrobe-data/garments/import-00400500-3992-425e-a91c-21f4abb203bf-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-00400500-3992-425e-a91c-21f4abb203bf-garment.png",
+    "importJobId": "00400500-3992-425e-a91c-21f4abb203bf"
+  },
+  {
+    "id": "import-13852398-6474-411e-a846-4d2c1b152089",
+    "name": "深藏蓝西装版型牛仔裤",
+    "part": "lowerbody",
+    "color": "#1f2c46",
+    "secondaryColor": null,
+    "palette": [
+      "#1f2c46"
+    ],
+    "tags": [
+      "denim",
+      "tailored-denim",
+      "trouser-cut",
+      "slash-pockets",
+      "straight-leg",
+      "navy",
+      "relaxed"
+    ],
+    "image": "wardrobe-data/garments/import-13852398-6474-411e-a846-4d2c1b152089-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-13852398-6474-411e-a846-4d2c1b152089-garment.png",
+    "importJobId": "13852398-6474-411e-a846-4d2c1b152089",
+    "colorName": "深藏蓝",
+    "rating": 4,
+    "feedbackTags": [
+      "想看外套搭配"
+    ],
+    "feedbackNote": ""
+  },
+  {
+    "id": "import-91b2d0db-e431-4c37-8b21-8ec6ba0f3128",
+    "name": "灰褐抽绳长裤",
+    "part": "lowerbody",
+    "color": "#8b8170",
+    "secondaryColor": null,
+    "palette": [
+      "#8b8170"
+    ],
+    "tags": [
+      "drawstring",
+      "relaxed",
+      "straight-leg"
+    ],
+    "image": "wardrobe-data/garments/import-91b2d0db-e431-4c37-8b21-8ec6ba0f3128-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-91b2d0db-e431-4c37-8b21-8ec6ba0f3128-garment.png",
+    "importJobId": "91b2d0db-e431-4c37-8b21-8ec6ba0f3128"
+  },
+  {
+    "id": "import-95687e2a-e3fd-4225-bf83-17cf71b861a0",
+    "name": "灰色拼接牛仔长裤",
+    "part": "lowerbody",
+    "color": "#6f6c69",
+    "secondaryColor": "#454348",
+    "palette": [
+      "#6f6c69",
+      "#454348"
+    ],
+    "tags": [
+      "denim",
+      "contrast-panel",
+      "full-length",
+      "wide-leg"
+    ],
+    "image": "wardrobe-data/garments/import-95687e2a-e3fd-4225-bf83-17cf71b861a0-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-95687e2a-e3fd-4225-bf83-17cf71b861a0-garment.png",
+    "importJobId": "95687e2a-e3fd-4225-bf83-17cf71b861a0"
+  },
+  {
+    "id": "import-71525036-ee92-4e2d-987c-7d2d39e23abb",
+    "name": "奶油白直筒长裤",
+    "part": "lowerbody",
+    "color": "#eee7d7",
+    "secondaryColor": null,
+    "palette": [
+      "#eee7d7"
+    ],
+    "tags": [
+      "straight-leg",
+      "cream",
+      "cotton"
+    ],
+    "image": "wardrobe-data/garments/import-71525036-ee92-4e2d-987c-7d2d39e23abb-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-71525036-ee92-4e2d-987c-7d2d39e23abb-garment.png",
+    "importJobId": "71525036-ee92-4e2d-987c-7d2d39e23abb"
+  },
+  {
+    "id": "import-106786c9-1457-4934-9e11-e785dc800b13",
+    "name": "LP浅卡其休闲长裤",
+    "part": "lowerbody",
+    "color": "#c3a786",
+    "secondaryColor": null,
+    "palette": [
+      "#c3a786"
+    ],
+    "tags": [
+      "relaxed",
+      "straight-leg",
+      "cotton"
+    ],
+    "image": "wardrobe-data/garments/import-106786c9-1457-4934-9e11-e785dc800b13-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-106786c9-1457-4934-9e11-e785dc800b13-garment.png",
+    "importJobId": "106786c9-1457-4934-9e11-e785dc800b13",
+    "colorName": "卡其色",
+    "rating": 0,
+    "feedbackTags": [],
+    "feedbackNote": "这件容易皱"
+  },
+  {
+    "id": "import-f73a15b2-d15e-4dc2-a0fe-2da00505de82",
+    "name": "黑色机能长裤",
+    "part": "lowerbody",
+    "color": "#17191d",
+    "secondaryColor": null,
+    "palette": [
+      "#17191d"
+    ],
+    "tags": [
+      "technical",
+      "articulated",
+      "black"
+    ],
+    "image": "wardrobe-data/garments/import-f73a15b2-d15e-4dc2-a0fe-2da00505de82-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-f73a15b2-d15e-4dc2-a0fe-2da00505de82-garment.png",
+    "importJobId": "f73a15b2-d15e-4dc2-a0fe-2da00505de82"
+  },
+  {
+    "id": "import-1b845ec0-79cf-4074-aae8-991aaf2ec8f1",
+    "name": "浅灰直筒长裤",
+    "part": "lowerbody",
+    "color": "#aaa69d",
+    "secondaryColor": null,
+    "palette": [
+      "#aaa69d"
+    ],
+    "tags": [
+      "straight-leg",
+      "stone-grey",
+      "flat-front"
+    ],
+    "image": "wardrobe-data/garments/import-1b845ec0-79cf-4074-aae8-991aaf2ec8f1-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-1b845ec0-79cf-4074-aae8-991aaf2ec8f1-garment.png",
+    "importJobId": "1b845ec0-79cf-4074-aae8-991aaf2ec8f1",
+    "colorName": null,
+    "rating": 4,
+    "feedbackTags": [
+      "好搭"
+    ],
+    "feedbackNote": "颜色不错，但是好像没有那么休闲"
+  },
+  {
+    "id": "import-8c9aba6f-69cc-45ff-8237-6781b6645acf",
+    "name": "卡其西装长裤",
+    "part": "lowerbody",
+    "color": "#a6936e",
+    "secondaryColor": null,
+    "palette": [
+      "#a6936e"
+    ],
+    "tags": [
+      "tailored",
+      "pleated",
+      "khaki"
+    ],
+    "image": "wardrobe-data/garments/import-8c9aba6f-69cc-45ff-8237-6781b6645acf-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-8c9aba6f-69cc-45ff-8237-6781b6645acf-garment.png",
+    "importJobId": "8c9aba6f-69cc-45ff-8237-6781b6645acf"
+  },
+  {
+    "id": "import-b2029fb5-484b-44be-8caa-12bebdf65111",
+    "name": "白色拼接羽绒马甲",
+    "part": "wholebody_up",
+    "color": "#eeeae1",
+    "secondaryColor": "#18191b",
+    "palette": [
+      "#eeeae1",
+      "#18191b"
+    ],
+    "tags": [
+      "padded",
+      "vest",
+      "contrast",
+      "winter"
+    ],
+    "image": "wardrobe-data/garments/import-b2029fb5-484b-44be-8caa-12bebdf65111-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-b2029fb5-484b-44be-8caa-12bebdf65111-garment.png",
+    "importJobId": "b2029fb5-484b-44be-8caa-12bebdf65111"
+  },
+  {
+    "id": "import-ffa6ad97-5602-4654-b83c-2d249142b525",
+    "name": "白色长袖衬衫",
+    "part": "upperbody",
+    "color": "#f3f1ec",
+    "secondaryColor": "#dedbd4",
+    "palette": [
+      "#f3f1ec",
+      "#dedbd4"
+    ],
+    "tags": [
+      "dress-shirt",
+      "long-sleeve",
+      "button-up",
+      "point-collar",
+      "layering",
+      "smart-casual"
+    ],
+    "image": "wardrobe-data/garments/import-ffa6ad97-5602-4654-b83c-2d249142b525-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-ffa6ad97-5602-4654-b83c-2d249142b525-garment.png",
+    "importJobId": "ffa6ad97-5602-4654-b83c-2d249142b525",
+    "colorName": "白色"
+  },
+  {
+    "id": "import-026f493d-3f55-440f-b31b-512f451b1f3d",
+    "name": "浅蓝长袖衬衫",
+    "part": "upperbody",
+    "color": "#a9c9ee",
+    "secondaryColor": "#d8e6f7",
+    "palette": [
+      "#a9c9ee",
+      "#d8e6f7"
+    ],
+    "tags": [
+      "dress-shirt",
+      "long-sleeve",
+      "button-up",
+      "point-collar",
+      "relaxed",
+      "layering",
+      "smart-casual"
+    ],
+    "image": "wardrobe-data/garments/import-026f493d-3f55-440f-b31b-512f451b1f3d-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-026f493d-3f55-440f-b31b-512f451b1f3d-garment.png",
+    "importJobId": "026f493d-3f55-440f-b31b-512f451b1f3d",
+    "colorName": "浅蓝"
+  },
+  {
+    "id": "import-a761e9f6-2187-4ae6-8116-e8054202d0e2",
+    "name": "黑色 V 领针织开衫",
+    "part": "wholebody_up",
+    "color": "#151515",
+    "secondaryColor": "#292929",
+    "palette": [
+      "#151515",
+      "#292929"
+    ],
+    "tags": [
+      "cardigan",
+      "v-neck",
+      "fine-knit",
+      "button-up",
+      "patch-pockets",
+      "drop-shoulder",
+      "relaxed",
+      "layering"
+    ],
+    "image": "wardrobe-data/garments/import-a761e9f6-2187-4ae6-8116-e8054202d0e2-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-a761e9f6-2187-4ae6-8116-e8054202d0e2-garment.png",
+    "importJobId": "a761e9f6-2187-4ae6-8116-e8054202d0e2",
+    "colorName": "黑色",
+    "fitNotes": "宽松落肩、常规臀上长度；敞开或部分系扣，以整体比例好看为准",
+    "rating": 0,
+    "feedbackTags": [],
+    "feedbackNote": "当前的效果图太正式？"
+  },
+  {
+    "id": "import-2aebb366-7538-4b73-92d6-2b45f0ea9c17",
+    "name": "浅灰 Monogram 内衬连帽夹克",
+    "part": "wholebody_up",
+    "color": "#d8d2ca",
+    "secondaryColor": "#b8b0a7",
+    "palette": [
+      "#d8d2ca",
+      "#b8b0a7"
+    ],
+    "tags": [
+      "hooded-jacket",
+      "textured",
+      "monogram-lining",
+      "gold-zip",
+      "welt-pockets",
+      "elastic-hem",
+      "relaxed",
+      "light-layer"
+    ],
+    "image": "wardrobe-data/garments/import-2aebb366-7538-4b73-92d6-2b45f0ea9c17-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-2aebb366-7538-4b73-92d6-2b45f0ea9c17-garment.png",
+    "importJobId": "2aebb366-7538-4b73-92d6-2b45f0ea9c17",
+    "colorName": "浅暖灰",
+    "fitNotes": "宽松箱型、臀上长度；敞开时保留金色拉链和浅灰花纹内衬作为细节",
+    "rating": 4,
+    "feedbackTags": [
+      "好搭"
+    ],
+    "feedbackNote": "虽然喜欢但是好像只有一种搭配方式？就是白内搭，蓝裤子"
+  },
+  {
+    "id": "import-500f61b8-c364-4a94-ada0-cf7899bc1a3f",
+    "name": "Prada 黑／深蓝双面尼龙夹克",
+    "part": "wholebody_up",
+    "color": "#161719",
+    "secondaryColor": "#1e2a42",
+    "palette": [
+      "#161719",
+      "#1e2a42"
+    ],
+    "tags": [
+      "prada",
+      "reversible",
+      "black-side",
+      "navy-side",
+      "technical-nylon",
+      "stand-collar",
+      "zip-up",
+      "lightweight",
+      "relaxed-blouson"
+    ],
+    "image": "wardrobe-data/garments/import-500f61b8-c364-4a94-ada0-cf7899bc1a3f-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-500f61b8-c364-4a94-ada0-cf7899bc1a3f-garment.png",
+    "importJobId": "500f61b8-c364-4a94-ada0-cf7899bc1a3f",
+    "colorName": "黑色／深蓝",
+    "fitNotes": "轻量臀长双面夹克；黑面偏技术精裁，深蓝面偏低调休闲",
+    "rating": 3,
+    "feedbackTags": [
+      "难搭"
+    ],
+    "feedbackNote": "不知道咋搭配，目前你给搭配效果图太正式"
+  },
+  {
+    "id": "import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2",
+    "name": "黑色短款翻领拉链夹克",
+    "part": "wholebody_up",
+    "color": "#111315",
+    "secondaryColor": null,
+    "palette": [
+      "#111315"
+    ],
+    "tags": [
+      "short",
+      "zip",
+      "pointed-collar",
+      "welt-pocket",
+      "black",
+      "outerwear"
+    ],
+    "image": "wardrobe-data/garments/import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-5b16d481-1ab7-41e5-a2a2-1634a35f0ad2-garment.png",
+    "importJobId": "5b16d481-1ab7-41e5-a2a2-1634a35f0ad2"
+  },
+  {
+    "id": "import-3e0699de-a21b-450e-94e2-b7abbd84b818",
+    "name": "浅卡其多袋短裤",
+    "part": "lowerbody",
+    "color": "#a99b79",
+    "secondaryColor": null,
+    "palette": [
+      "#a99b79"
+    ],
+    "tags": [
+      "cargo",
+      "shorts",
+      "drawstring",
+      "cotton"
+    ],
+    "image": "wardrobe-data/garments/import-3e0699de-a21b-450e-94e2-b7abbd84b818-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-3e0699de-a21b-450e-94e2-b7abbd84b818-garment.png",
+    "importJobId": "3e0699de-a21b-450e-94e2-b7abbd84b818"
+  },
+  {
+    "id": "import-fbb968d7-a920-4162-bb62-fd34528f48a0",
+    "name": "奶油米色亚麻短裤",
+    "part": "lowerbody",
+    "color": "#d8d0ba",
+    "secondaryColor": null,
+    "palette": [
+      "#d8d0ba"
+    ],
+    "tags": [
+      "linen",
+      "shorts",
+      "zip",
+      "textured"
+    ],
+    "image": "wardrobe-data/garments/import-fbb968d7-a920-4162-bb62-fd34528f48a0-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-fbb968d7-a920-4162-bb62-fd34528f48a0-garment.png",
+    "importJobId": "fbb968d7-a920-4162-bb62-fd34528f48a0",
+    "colorName": null,
+    "rating": 4,
+    "feedbackTags": [
+      "好搭"
+    ],
+    "feedbackNote": ""
+  },
+  {
+    "id": "import-f840ea1f-4795-45d5-8cae-94044246908a",
+    "name": "浅卡其前褶短裤",
+    "part": "lowerbody",
+    "color": "#b2a183",
+    "secondaryColor": null,
+    "palette": [
+      "#b2a183"
+    ],
+    "tags": [
+      "shorts",
+      "pleat",
+      "cotton",
+      "tailored"
+    ],
+    "image": "wardrobe-data/garments/import-f840ea1f-4795-45d5-8cae-94044246908a-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-f840ea1f-4795-45d5-8cae-94044246908a-garment.png",
+    "importJobId": "f840ea1f-4795-45d5-8cae-94044246908a"
+  },
+  {
+    "id": "import-58161e6d-c1c0-4db1-9970-7a366f410269",
+    "name": "灰绿色针织短裤",
+    "part": "lowerbody",
+    "color": "#a1a28c",
+    "secondaryColor": null,
+    "palette": [
+      "#a1a28c"
+    ],
+    "tags": [
+      "knit",
+      "waffle",
+      "shorts",
+      "elastic"
+    ],
+    "image": "wardrobe-data/garments/import-58161e6d-c1c0-4db1-9970-7a366f410269-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-58161e6d-c1c0-4db1-9970-7a366f410269-garment.png",
+    "importJobId": "58161e6d-c1c0-4db1-9970-7a366f410269"
+  },
+  {
+    "id": "import-f5322a63-54af-43c4-b466-8ca13a705758",
+    "name": "黑色基础短裤",
+    "part": "lowerbody",
+    "color": "#191a1a",
+    "secondaryColor": null,
+    "palette": [
+      "#191a1a"
+    ],
+    "tags": [
+      "shorts",
+      "cotton",
+      "basic"
+    ],
+    "image": "wardrobe-data/garments/import-f5322a63-54af-43c4-b466-8ca13a705758-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-f5322a63-54af-43c4-b466-8ca13a705758-garment.png",
+    "importJobId": "f5322a63-54af-43c4-b466-8ca13a705758"
+  },
+  {
+    "id": "import-00fea340-57ae-4abe-b116-d798d276d819",
+    "name": "橄榄色机能长裤 A",
+    "part": "lowerbody",
+    "color": "#716e4c",
+    "secondaryColor": "#151b22",
+    "palette": [
+      "#716e4c",
+      "#151b22"
+    ],
+    "tags": [
+      "cargo",
+      "utility",
+      "full-length",
+      "olive"
+    ],
+    "image": "wardrobe-data/garments/import-00fea340-57ae-4abe-b116-d798d276d819-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-00fea340-57ae-4abe-b116-d798d276d819-garment.png",
+    "importJobId": "00fea340-57ae-4abe-b116-d798d276d819"
+  },
+  {
+    "id": "import-4e309587-ef6d-4ca3-b07f-20bd95e7cd5a",
+    "name": "橄榄色机能长裤 B",
+    "part": "lowerbody",
+    "color": "#77704e",
+    "secondaryColor": "#151b22",
+    "palette": [
+      "#77704e",
+      "#151b22"
+    ],
+    "tags": [
+      "cargo",
+      "utility",
+      "zip-pocket",
+      "olive"
+    ],
+    "image": "wardrobe-data/garments/import-4e309587-ef6d-4ca3-b07f-20bd95e7cd5a-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-4e309587-ef6d-4ca3-b07f-20bd95e7cd5a-garment.png",
+    "importJobId": "4e309587-ef6d-4ca3-b07f-20bd95e7cd5a"
+  },
+  {
+    "id": "import-09848e7b-9a9d-48f6-8499-14318979df95",
+    "name": "黑色 Diesel 图案 T 恤",
+    "part": "upperbody",
+    "color": "#181a1a",
+    "secondaryColor": "#c7c0b4",
+    "palette": [
+      "#181a1a",
+      "#c7c0b4"
+    ],
+    "tags": [
+      "graphic",
+      "diesel",
+      "cotton",
+      "short-sleeve"
+    ],
+    "image": "wardrobe-data/garments/import-09848e7b-9a9d-48f6-8499-14318979df95-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-09848e7b-9a9d-48f6-8499-14318979df95-garment.png",
+    "importJobId": "09848e7b-9a9d-48f6-8499-14318979df95"
+  },
+  {
+    "id": "import-50187ed3-9a0c-405f-afa6-0b3c46d72d1b",
+    "name": "深蓝绿色连帽衫",
+    "part": "upperbody",
+    "color": "#1f6470",
+    "secondaryColor": "#f0eee7",
+    "palette": [
+      "#1f6470",
+      "#f0eee7"
+    ],
+    "tags": [
+      "hoodie",
+      "fleece",
+      "drawcord",
+      "logo"
+    ],
+    "image": "wardrobe-data/garments/import-50187ed3-9a0c-405f-afa6-0b3c46d72d1b-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-50187ed3-9a0c-405f-afa6-0b3c46d72d1b-garment.png",
+    "importJobId": "50187ed3-9a0c-405f-afa6-0b3c46d72d1b",
+    "colorName": null,
+    "rating": 3,
+    "feedbackTags": [
+      "难搭",
+      "想看外套搭配",
+      "缺少搭档"
+    ],
+    "feedbackNote": "不知道咋搭配，颜色太跳脱？你帮忙看看"
+  },
+  {
+    "id": "import-8ce57e41-d97e-4683-b9aa-d2d4baba66bd",
+    "name": "黑色多袋短裤",
+    "part": "lowerbody",
+    "color": "#18191a",
+    "secondaryColor": "#bfc0b8",
+    "palette": [
+      "#18191a",
+      "#bfc0b8"
+    ],
+    "tags": [
+      "cargo",
+      "shorts",
+      "utility",
+      "black"
+    ],
+    "image": "wardrobe-data/garments/import-8ce57e41-d97e-4683-b9aa-d2d4baba66bd-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-8ce57e41-d97e-4683-b9aa-d2d4baba66bd-garment.png",
+    "importJobId": "8ce57e41-d97e-4683-b9aa-d2d4baba66bd"
+  },
+  {
+    "id": "import-467ae0cb-bbf5-480b-a00e-6478d4dd5d7e",
+    "name": "白色宽肩背心",
+    "part": "upperbody",
+    "color": "#f1efea",
+    "secondaryColor": null,
+    "palette": [
+      "#f1efea"
+    ],
+    "tags": [
+      "tank",
+      "cotton",
+      "sleeveless",
+      "white"
+    ],
+    "image": "wardrobe-data/garments/import-467ae0cb-bbf5-480b-a00e-6478d4dd5d7e-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-467ae0cb-bbf5-480b-a00e-6478d4dd5d7e-garment.png",
+    "importJobId": "467ae0cb-bbf5-480b-a00e-6478d4dd5d7e"
+  },
+  {
+    "id": "import-cbbb13b0-8f9c-4cb2-b4f3-ed867fc04bfc",
+    "name": "深藏蓝背心",
+    "part": "upperbody",
+    "color": "#172238",
+    "secondaryColor": null,
+    "palette": [
+      "#172238"
+    ],
+    "tags": [
+      "tank",
+      "cotton",
+      "sleeveless",
+      "navy"
+    ],
+    "image": "wardrobe-data/garments/import-cbbb13b0-8f9c-4cb2-b4f3-ed867fc04bfc-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-cbbb13b0-8f9c-4cb2-b4f3-ed867fc04bfc-garment.png",
+    "importJobId": "cbbb13b0-8f9c-4cb2-b4f3-ed867fc04bfc"
+  },
+  {
+    "id": "import-b45225a2-ee0f-4581-8c89-0a699ee2c56d",
+    "name": "大号黑色 Prada 尼龙包",
+    "part": "accessories_up",
+    "color": "#111111",
+    "secondaryColor": "#a8a8a8",
+    "palette": [
+      "#111111",
+      "#a8a8a8"
+    ],
+    "tags": [
+      "bag",
+      "nylon",
+      "crossbody",
+      "prada",
+      "black"
+    ],
+    "image": "wardrobe-data/garments/import-b45225a2-ee0f-4581-8c89-0a699ee2c56d-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-b45225a2-ee0f-4581-8c89-0a699ee2c56d-garment.png",
+    "importJobId": "b45225a2-ee0f-4581-8c89-0a699ee2c56d"
+  },
+  {
+    "id": "import-084f1003-eaba-4d17-81ba-de5d401ecdda",
+    "name": "小号黑色 Prada 尼龙邮差包（含挂件）",
+    "part": "accessories_up",
+    "color": "#111111",
+    "secondaryColor": "#a8a8a8",
+    "palette": [
+      "#111111",
+      "#a8a8a8"
+    ],
+    "tags": [
+      "bag",
+      "nylon",
+      "messenger",
+      "crossbody",
+      "pouch",
+      "prada",
+      "black"
+    ],
+    "image": "wardrobe-data/garments/import-084f1003-eaba-4d17-81ba-de5d401ecdda-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-084f1003-eaba-4d17-81ba-de5d401ecdda-garment.png",
+    "importJobId": "084f1003-eaba-4d17-81ba-de5d401ecdda"
+  },
+  {
+    "id": "import-ad5d80f7-106b-4416-8d4c-392a3ff23de3",
+    "name": "黑色宽檐帽",
+    "part": "accessories_up",
+    "color": "#111111",
+    "secondaryColor": null,
+    "palette": [
+      "#111111"
+    ],
+    "tags": [
+      "hat",
+      "wide-brim",
+      "chin-cord",
+      "black"
+    ],
+    "image": "wardrobe-data/garments/import-ad5d80f7-106b-4416-8d4c-392a3ff23de3-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-ad5d80f7-106b-4416-8d4c-392a3ff23de3-garment.png",
+    "importJobId": "ad5d80f7-106b-4416-8d4c-392a3ff23de3"
+  },
+  {
+    "id": "import-cf7498ec-2ba3-4cfd-bad6-ec8b329230c0",
+    "name": "黑色窄椭圆墨镜",
+    "part": "accessories_up",
+    "color": "#111111",
+    "secondaryColor": null,
+    "palette": [
+      "#111111"
+    ],
+    "tags": [
+      "sunglasses",
+      "oval",
+      "black"
+    ],
+    "image": "wardrobe-data/garments/import-cf7498ec-2ba3-4cfd-bad6-ec8b329230c0-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-cf7498ec-2ba3-4cfd-bad6-ec8b329230c0-garment.png",
+    "importJobId": "cf7498ec-2ba3-4cfd-bad6-ec8b329230c0"
+  },
+  {
+    "id": "import-58f022c8-1a90-4840-a5af-af852f288264",
+    "name": "黑色方框墨镜",
+    "part": "accessories_up",
+    "color": "#191919",
+    "secondaryColor": null,
+    "palette": [
+      "#191919"
+    ],
+    "tags": [
+      "sunglasses",
+      "rectangular",
+      "black"
+    ],
+    "image": "wardrobe-data/garments/import-58f022c8-1a90-4840-a5af-af852f288264-garment.png",
+    "thumbnail": "wardrobe-data/garments/import-58f022c8-1a90-4840-a5af-af852f288264-garment.png",
+    "importJobId": "58f022c8-1a90-4840-a5af-af852f288264"
+  }
+]
