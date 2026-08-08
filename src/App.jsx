@@ -27,6 +27,16 @@ import "./styles.css";
 
 const STORAGE_KEY = "my-wardrobe-items-v1";
 const OUTFIT_FEEDBACK_STORAGE_KEY = "my-wardrobe-outfit-feedback-v1";
+const STATIC_DATA_BASE = `${import.meta.env.BASE_URL || "/"}wardrobe-data/`;
+
+function staticDataUrl(file) {
+  return `${STATIC_DATA_BASE}${file}`;
+}
+
+function staticAssetUrl(asset) {
+  if (!asset || typeof asset !== "string" || asset.startsWith("/api/") || asset.startsWith("data:") || asset.startsWith("blob:")) return asset;
+  return `${import.meta.env.BASE_URL || "/"}${asset.replace(/^\/+/, "")}`;
+}
 
 const IMPORTED_CATEGORY_MAP = {
   upperbody: { id: "upper", label: "上衣" },
@@ -720,15 +730,29 @@ export default function App() {
   useEffect(() => {
     let mounted = true;
     const loadWardrobe = () => {
-      fetch("/api/import/wardrobe", { cache: "no-store" })
+      const staticRecords = fetch(staticDataUrl("library.json"), { cache: "no-store" })
+        .then((response) => {
+          if (!response.ok) throw new Error("static wardrobe unavailable");
+          return response.json();
+        });
+      const localRecords = fetch("/api/import/wardrobe", { cache: "no-store" })
         .then((response) => {
           if (!response.ok) throw new Error("wardrobe unavailable");
           return response.json();
         })
-        .then((records) => {
+        .catch(() => null);
+      Promise.all([staticRecords, localRecords])
+        .then(([fallbackRecords, apiRecords]) => {
+          const records = Array.isArray(apiRecords) && apiRecords.length ? apiRecords : fallbackRecords;
           if (!mounted || !Array.isArray(records)) return;
+          const recordsWithAssets = records.map((record) => ({
+            ...record,
+            image: staticAssetUrl(record.image),
+            thumbnail: staticAssetUrl(record.thumbnail),
+            modeledImage: staticAssetUrl(record.modeledImage),
+          }));
           setItems((currentItems) => {
-            const merged = mergeImportedRecords(records, currentItems);
+            const merged = mergeImportedRecords(recordsWithAssets, currentItems);
             saveItems(merged);
             return merged;
           });
@@ -753,39 +777,55 @@ export default function App() {
 
   useEffect(() => {
     let mounted = true;
-    fetch("/api/import/outfit-feedback", { cache: "no-store" })
+    const staticFeedback = fetch(staticDataUrl("outfit-feedback.json"), { cache: "no-store" })
+      .then((response) => {
+        if (!response.ok) throw new Error("static outfit feedback unavailable");
+        return response.json();
+      })
+      .catch(() => ({}));
+    const localFeedback = fetch("/api/import/outfit-feedback", { cache: "no-store" })
       .then((response) => {
         if (!response.ok) throw new Error("outfit feedback unavailable");
         return response.json();
       })
-      .then((records) => {
+      .catch(() => null);
+    Promise.all([staticFeedback, localFeedback]).then(([fallbackRecords, apiRecords]) => {
+        const records = { ...fallbackRecords, ...(apiRecords || {}) };
         if (!mounted || !records || typeof records !== "object" || Array.isArray(records)) return;
         const merged = { ...readOutfitFeedback(), ...records };
         setOutfitFeedback(merged);
         localStorage.setItem(OUTFIT_FEEDBACK_STORAGE_KEY, JSON.stringify(merged));
-      })
-      .catch(() => {});
+      });
     return () => { mounted = false; };
   }, []);
 
   useEffect(() => {
     let mounted = true;
     const loadOutfits = () => {
-      fetch("/api/import/outfits", { cache: "no-store" })
+      const staticManifest = fetch(staticDataUrl("outfits.json"), { cache: "no-store" })
+        .then((response) => {
+          if (!response.ok) throw new Error("static outfits unavailable");
+          return response.json();
+        });
+      const localManifest = fetch("/api/import/outfits", { cache: "no-store" })
         .then((response) => {
           if (!response.ok) throw new Error("outfits unavailable");
           return response.json();
         })
-        .then((manifest) => {
+        .catch(() => null);
+      Promise.all([staticManifest, localManifest]).then(([fallbackManifest, apiManifest]) => {
+          const manifest = apiManifest || fallbackManifest;
           if (!mounted) return;
           const assetVersion = manifest?.assetVersion || "current";
           const acceptedOutfits = Array.isArray(manifest?.outfits) ? manifest.outfits.filter((outfit) => outfit.status === "accepted") : [];
-          setCuratedOutfits(acceptedOutfits.map((outfit) => ({
-            ...outfit,
-            image: outfit.image ? `${outfit.image}${outfit.image.includes("?") ? "&" : "?"}v=${encodeURIComponent(assetVersion)}` : outfit.image,
-          })));
+          setCuratedOutfits(acceptedOutfits.map((outfit) => {
+            const image = staticAssetUrl(outfit.image);
+            return {
+              ...outfit,
+              image: image ? `${image}${image.includes("?") ? "&" : "?"}v=${encodeURIComponent(assetVersion)}` : image,
+            };
+          }));
         })
-        .catch(() => {});
     };
     const refreshWhenVisible = () => {
       if (document.visibilityState === "visible") loadOutfits();
